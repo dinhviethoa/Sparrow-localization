@@ -1,0 +1,1367 @@
+/* when folder is not found. error message in case other case. description in the dialog box. %@ is the name of the folder. */
+"\"%@\" folder was not found and could not be created. This folder is required to get Sparrow to work properly." = "\"%@\" folder was not found and could not be created. This folder is required to get Sparrow to work properly.";
+
+/* copy-paste content in case there is no sender: first %@ is the subject, second %@ is the URL */
+"%@ (%@)" = "%1$@ (%2$@)";
+
+/* folder name and unread count. %@ is the folder name. %u is the unread count.
+   label name and unread count. %@ is the folder name. %u is the unread count. */
+"%@ (%u)" = "%1$@ (%2$u)";
+
+/* copy-paste content: first %@ is the sender, second %@ is the subject */
+"%@: %@" = "%1$@: %2$@";
+
+/* copy-paste content: first %@ is the sender, second %@ is the subject, third %@ is the URL */
+"%@: %@ (%@)" = "%1$@: %2$@ (%3$@)";
+
+/* contents of growl notification when there are several messages to notify, %u is the number of new messages */
+"%u new messages" = "%u new messages";
+
+/* placeholder when the attachment has no name in the generated preview of the message */
+"(no name)" = "(no name)";
+
+/* in the message cell, when there is no recipient */
+"(No recipient)" = "(No recipient)";
+
+/* growl notification: placeholder the message has no subject
+   placeholder for message with no subject for copy-paste content
+   placeholder for message with no subject in message cell
+   placeholder for the message when it has no subject. will be used for the filename
+   placeholder of the message in activity when it has no subject */
+"(no subject)" = "(žádný předmět)";
+
+/* when the preview is truncated in pasteboard */
+"\\U2026" = "…";
+
+/* error description. */
+"A message could not be retrieved. It must have disappeared. Please refresh." = "A message could not be retrieved. It must have disappeared. Please refresh.";
+
+/* A new version is available. title of the dialog box. */
+"A new version of %@ is available" = "A new version of %@ is available";
+
+/* error description (generic imap). */
+"A secure connection is not available on the mail server." = "A secure connection is not available on the mail server.";
+
+/* fonts broken on the system. description of the dialog box. */
+"A system font is missing. Make sure to restore your default Mac OS X fonts." = "A system font is missing. Make sure to restore your default Mac OS X fonts.";
+
+/* main menu */
+"About Sparrow" = "O aplikaci Sparrow";
+
+/* main menu */
+"Activity" = "Activity";
+
+/* main menu */
+"Add Account" = "Přidat účet";
+
+/* main menu */
+"Add Link\\U2026" = "Přidat odkaz ...";
+
+/* main menu */
+"Ads Disabled" = "Ads Disabled";
+
+/* main menu */
+"Align Left" = "Align Left";
+
+/* main menu */
+"Align Right" = "Align Right";
+
+/* search bar */
+"All" = "All";
+
+/* All Mail menu item (for gmail), in labels menu
+   All Mail menu item in popup menu, in labels menu
+   tooltip for All Mail */
+"All Mail" = "All Mail";
+
+/* error description. */
+"An unexpected error occurred on the server. Please retry later." = "An unexpected error occurred on the server. Please retry later.";
+
+/* error description (for gmail). */
+"An unexpected error occurred when communicating with Gmail servers. Please report a bug." = "An unexpected error occurred when communicating with Gmail servers. Please report a bug.";
+
+/* error description (generic imap). */
+"An unexpected error occurred when communicating with the servers. Please report a bug." = "An unexpected error occurred when communicating with the servers. Please report a bug.";
+
+/* Description of the dialog box: Leopard double update message. */
+"Another update is needed.\nYou will be automatically redirected to the update panel." = "Another update is needed.\nYou will be automatically redirected to the update panel.";
+
+/* search token */
+"ANY" = "ANY";
+
+/* label of the archive toolbar button
+   main menu
+   tooltip of the archive toolbar button */
+"Archive" = "Archív";
+
+/* Archive and Label menu item
+   Archive and Label menu item (as title of the menu)
+   Archive and Label menu item (for gmail)
+   conversation list: menu item
+   main menu */
+"Archive and Label" = "Archive and Label";
+
+/* Archive menu item (generic imap), in labels menu
+   Archive menu item in popup menu, in labels menu
+   tooltip for Archive category */
+"Archive-LocSidebar" = "Archív";
+
+/* when pressing on the empty spam button from spam bar, title */
+"Are you sure you want to erase the messages in the Spam?" = "Are you sure you want to erase the messages in the Spam?";
+
+/* when pressing on the empty trash button from trash bar, title */
+"Are you sure you want to permanently erase the messages in the Trash?" = "Are you sure you want to permanently erase the messages in the Trash?";
+
+/* main menu */
+"Attach Files\\U2026" = "Připojit soubory ...";
+
+/* search term: message has attachment */
+"Attachment" = "Příloha";
+
+/* search token */
+"ATTACHMENT" = "PŘÍLOHA";
+
+/* Attachments of the message could not be downloaded. description in the dialog box. %@ is the subject of the message. */
+"Attachments of the message \"%@\" could not be downloaded. Please retry later." = "Attachments of the message \"%@\" could not be downloaded. Please retry later.";
+
+/* Attachments of the message with no subject could not be downloaded. description in the dialog box. */
+"Attachments of the message with no subject could not be downloaded. Please retry later." = "Attachments of the message with no subject could not be downloaded. Please retry later.";
+
+/* main menu */
+"Baseline" = "Baseline";
+
+/* main menu */
+"Bigger" = "Bigger";
+
+/* main menu */
+"Bold" = "Tučné";
+
+/* main menu */
+"Bring All to Front" = "Bring All to Front";
+
+/* main menu */
+"Bullet" = "Bullet";
+
+/* buy button label */
+"Buy Sparrow" = "Koupit Sparrow";
+
+/* Cancel
+   when emptying the trash: Cancel button */
+"Cancel" = "Zrušit";
+
+/* database could not be created. title of dialog box. */
+"Cannot create Message Database" = "Cannot create Message Database";
+
+/* main menu */
+"Capitalize" = "Capitalize";
+
+/* main menu */
+"Center" = "Center";
+
+/* main menu */
+"Check Document Now" = "Check Document Now";
+
+/* main menu */
+"Check for Updates\\U2026" = "Check for Updates…";
+
+/* main menu */
+"Check Grammar With Spelling" = "Check Grammar With Spelling";
+
+/* main menu */
+"Check Spelling While Typing" = "Check Spelling While Typing";
+
+/* pop activity */
+"checking %i messages" = "checking %i messages";
+
+/* syncing description progress */
+"Checking for mail\\U2026" = "Checking for mail…";
+
+/* main menu */
+"Close" = "Close";
+
+/* label of the compose toolbar button */
+"Compose" = "Compose";
+
+/* main menu */
+"Compose New Message" = "Compose New Message";
+
+/* main menu */
+"Connection Checker\\U2026" = "Connection Checker…";
+
+/* Connection error. title of the dialog box. */
+"Connection error" = "Connection error";
+
+/* cloudapp prefs: error description. */
+"Connection to CloudApp could not be established. Either your connection is not available or the CloudApp server is unavailable. Please retry later." = "Connection to CloudApp could not be established. Either your connection is not available or the CloudApp server is unavailable. Please retry later.";
+
+/* cloudapp prefs: error description. */
+"Connection to CloudApp could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "Connection to CloudApp could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry.";
+
+/* cloudapp prefs: error description. */
+"Connection to Dropbox could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "Connection to Dropbox could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry.";
+
+/* error description (for gmail). */
+"Connection to Gmail could not be established. Either your connection is not available or Gmail is unavailable. Please retry later." = "Connection to Gmail could not be established. Either your connection is not available or Gmail is unavailable. Please retry later.";
+
+/* error description (for gmail). */
+"Connection to Gmail could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "Connection to Gmail could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry.";
+
+/* error description (for gmail). */
+"Connection to Gmail could not be established. Your email or your password is not correct. Please check you typed them properly and retry." = "Connection to Gmail could not be established. Your email or your password is not correct. Please check you typed them properly and retry.";
+
+/* error description (generic imap). */
+"Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please retry later." = "Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please retry later.";
+
+/* error description (generic imap). occurs in assistant. */
+"Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please try to untick Secure in the settings and try again." = "Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please try to untick Secure in the settings and try again.";
+
+/* error description (generic imap). */
+"Connection to the mail server could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "Connection to the mail server could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry.";
+
+/* cloudapp prefs: error description. */
+"Connection to your account could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "Connection to your account could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry.";
+
+/* cloudapp prefs: error description. */
+"Connection to your account could not be established. Your login or your password is not correct. Please check you typed them properly and retry." = "Connection to your account could not be established. Your login or your password is not correct. Please check you typed them properly and retry.";
+
+/* cloudapp prefs: error description. */
+"Connection to your CloudApp account could not be established. Your login or your password is not correct. Please check you typed them properly and retry." = "Connection to your CloudApp account could not be established. Your login or your password is not correct. Please check you typed them properly and retry.";
+
+/* error description. */
+"Connection to your Dropbox account could not be established. Dropbox service is not available. Please, retry later." = "Connection to your Dropbox account could not be established. Dropbox service is not available. Please, retry later.";
+
+/* cloudapp prefs: error description.
+   error description. */
+"Connection to your Dropbox account could not be established. Your login or your password is not correct. Please check you typed them properly and retry." = "Connection to your Dropbox account could not be established. Your login or your password is not correct. Please check you typed them properly and retry.";
+
+/* error description (generic imap). %@ is the email address. */
+"Connection to your mail account %@ could not be established. Your login or your password is not correct. Please check you typed them properly and retry." = "Connection to your mail account %@ could not be established. Your login or your password is not correct. Please check you typed them properly and retry.";
+
+/* main menu */
+"Copy" = "Kopírovat";
+
+/* main menu */
+"Copy Ruler" = "Copy Ruler";
+
+/* main menu */
+"Copy Style" = "Kopírovat styl";
+
+/* main menu */
+"Correct Spelling Automatically" = "Correct Spelling Automatically";
+
+/* main menu */
+"Cut" = "Vyjmout";
+
+/* search token */
+"DATE" = "DATUM";
+
+/* search suggestions category */
+"Dates" = "Dates";
+
+/* main menu */
+"Decrease Indent Level" = "Decrease Indent Level";
+
+/* main menu */
+"Decrease Quote Level" = "Decrease Quote Level";
+
+/* main menu */
+"Default" = "Výchozí";
+
+/* label of the trash toolbar button
+   main menu
+   tooltip of the trash toolbar button */
+"Delete" = "Smazat";
+
+/* name of the folder in error message when the folder is not available */
+"Deleted Messages" = "Smazané zprávy";
+
+/* Messages are being sent while quitting. title of the dialog box. */
+"Do you want to quit now?" = "Do you want to quit now?";
+
+/* A new version is available. description in the dialog box. first %@ is the name of the application. second %@ is the version to update to. */
+"Do you want to update to %@ %@ using the Mac App Store? This is a free version update." = "Do you want to update to %1$@ %2$@ using the Mac App Store? This is a free version update.";
+
+/* Don't Quit button when sending while quitting */
+"Don't Quit" = "Don't Quit";
+
+/* Attachments of the message could not be downloaded. Title of the dialog box.
+   The attachment could not be downloaded. title of the dialog box. */
+"Download failed" = "Download failed";
+
+/* Download latest version button when sparrow expired in the dialog */
+"Download latest version" = "Download latest version";
+
+/* syncing description progress, when progress value is available, first %u is the progress value, second %u is the maximum progress */
+"Downloading %u of %u" = "Downloading %1$u of %2$u";
+
+/* Draft message indication
+   search term */
+"Draft" = "Draft";
+
+/* main menu
+   name of the folder in error message when the folder is not available
+   tooltip for Drafts */
+"Drafts" = "Drafts";
+
+/* main menu */
+"Edit" = "Edit";
+
+/* spam bar empty button
+   trash bar empty button */
+"Empty" = "Empty";
+
+/* when emptying the spam folder: Empty button */
+"Empty Spam" = "Empty Spam";
+
+/* when emptying the trash: Empty button */
+"Empty Trash" = "Empty Trash";
+
+/* main menu */
+"Enter Full Screen" = "Enter Full Screen";
+
+/* search suggestion menu */
+"Entire message" = "Entire message";
+
+/* error description (generic imap). */
+"Exceeded bandwidth limit. Please contact your provider." = "Exceeded bandwidth limit. Please contact your provider.";
+
+/* error description. %@ is the URL to open. (for gmail) */
+"Exceeded bandwidth limit. Please try to unlock your account using the following webpage: %@" = "Exceeded bandwidth limit. Please try to unlock your account using the following webpage: %@";
+
+/* main menu */
+"Exit Full Screen" = "Exit Full Screen";
+
+/* main menu */
+"Extended Sidebar" = "Extended Sidebar";
+
+/* main menu */
+"File" = "File";
+
+/* main menu */
+"Find" = "Find";
+
+/* main menu */
+"Find Next" = "Find Next";
+
+/* main menu */
+"Find Previous" = "Find Previous";
+
+/* main menu */
+"Find\\U2026" = "Hledat ...";
+
+/* search suggestion menu */
+"Folder" = "Složka";
+
+/* search token */
+"FOLDER" = "SLOŽKA";
+
+/* when folder is not found. title of the dialog box. */
+"Folder not found" = "Složka nenalezena";
+
+/* search suggestion category
+   tooltip for Folders section in sidebar */
+"Folders" = "Složky";
+
+/* main menu */
+"Font" = "Font";
+
+/* main menu */
+"Format" = "Format";
+
+/* conversation list: menu item
+   main menu
+   menu item for reply toolbar button */
+"Forward" = "Přeposlat";
+
+/* search token: completion string */
+"friday" = "pátek";
+
+/* search term */
+"Friday" = "Pátek";
+
+/* search bar
+   search suggestion menu */
+"From" = "Od";
+
+/* search token */
+"FROM" = "OD";
+
+/* search token prefix */
+"from:" = "od:";
+
+/* pop activity */
+"getting message content" = "getting message content";
+
+/* pop activity */
+"getting message content %i/%i" = "getting message content %1$i/%2$i";
+
+/* pop activity */
+"getting message header %i/%i" = "getting message header %1$i/%2$i";
+
+/* pop activity */
+"getting message list" = "getting message list";
+
+/* displayed in mesage list: Getting messages */
+"Getting messages" = "Getting messages";
+
+/* main menu */
+"Go to Next Message" = "Přejít na další zprávu";
+
+/* main menu */
+"Go to Previous Message" = "Přejít na předchozí zprávu";
+
+/* search token: prefix in case of attachment */
+"HAS" = "HAS";
+
+/* search token: completion string */
+"has:attachment, attachment, filename" = "has:attachment, attachment, filename";
+
+/* main menu */
+"Help" = "Nápověda";
+
+/* main menu */
+"Hide Others" = "Hide Others";
+
+/* main menu */
+"Hide Sparrow" = "Skrýt Sparrow";
+
+/* A new version is available. Ignore button. */
+"Ignore" = "Ignorovat";
+
+/* error description (for gmail). */
+"IMAP is not enabled. Please check your settings on Gmail Web." = "IMAP is not enabled. Please check your settings on Gmail Web.";
+
+/* error description (for gmail). */
+"IMAP is not enabled. Please contact your provider." = "IMAP is not enabled. Please contact your provider.";
+
+/* Important menu item for priority inbox
+   search term */
+"Important" = "Important";
+
+/* displayed in mesage list: Importing */
+"Importing" = "Importing";
+
+/* when importing. %@ is the email that is being imported. */
+"Importing %@\\U2026" = "Importing %@…";
+
+/* import description */
+"Importing data from previous version of Sparrow.\nPlease wait while import is in progress\\U2026" = "Importing data from previous version of Sparrow.\nPlease wait while import is in progress…";
+
+/* importing: title of the window */
+"Importing Mails" = "Importing Mails";
+
+/* search token: completion, folder: ignored search prefix */
+"in:" = "in:";
+
+/* search token: completion string */
+"in:inbox, inbox" = "in:inbox, inbox";
+
+/* inbox selection bar: Inbox
+   main menu
+   name of the folder in error message when the folder is not available
+   search term
+   tooltip for Inbox */
+"Inbox" = "Příchozí";
+
+/* displayed in message list: No conversations in inbox */
+"Inbox Zero" = "Inbox Zero";
+
+/* main menu */
+"Increase Indent Level" = "Increase Indent Level";
+
+/* main menu */
+"Increase Quote Level" = "Increase Quote Level";
+
+/* main menu */
+"Indentation" = "Indentation";
+
+/* error description (for gmail). */
+"Information could not be saved to Gmail. Please retry later." = "Information could not be saved to Gmail. Please retry later.";
+
+/* error description (generic imap). */
+"Information could not be saved to the mail server. Please retry later." = "Information could not be saved to the mail server. Please retry later.";
+
+/* installation corrupted: title of the dialog box. */
+"Install is corrupted" = "Install is corrupted";
+
+/* search token: completion string */
+"is:draft, is:drafts, in:drafts, in:drafts, drafts" = "is:draft, is:drafts, in:drafts, in:drafts, drafts";
+
+/* search token: completion string */
+"is:important, in:important, priority inbox, important" = "is:important, in:important, priority inbox, important";
+
+/* search token: completion string */
+"is:read, read" = "is:read, read";
+
+/* search token: completion string */
+"is:sent, in:sent, sent" = "is:sent, in:sent, sent";
+
+/* search token: completion string */
+"is:spam, in:spam, spam, junk" = "is:spam, in:spam, spam, junk";
+
+/* search token: completion string */
+"is:starred, in:starred, star, starred, favorite, favorites, flag, flagged" = "is:starred, in:starred, star, starred, favorite, favorites, flag, flagged";
+
+/* search token: completion string */
+"is:trash, in:trash, trash, bin, deleted" = "is:trash, in:trash, trash, bin, deleted";
+
+/* search token: completion string */
+"is:unread, unread, not read" = "is:unread, unread, not read";
+
+/* main menu */
+"Italic" = "Italic";
+
+/* main menu */
+"Jump to Selection" = "Jump to Selection";
+
+/* main menu */
+"Justify" = "Justify";
+
+/* main menu */
+"Kern" = "Kern";
+
+/* conversation list: menu item
+   main menu */
+"Label" = "Label";
+
+/* search token */
+"LABEL" = "LABEL";
+
+/* label of the label button
+   Labels menu item (as title of the menu)
+   main menu
+   search suggestion category
+   tooltip for Labels section in sidebar
+   tooltip of the label button */
+"Labels" = "Labels";
+
+/* search token: completion string */
+"last month" = "last month";
+
+/* search term */
+"Last Month" = "Last Month";
+
+/* search term */
+"Last Week" = "Last Week";
+
+/* search token: completion string */
+"last week" = "last week";
+
+/* search term */
+"Last Year" = "Last Year";
+
+/* search token: completion string */
+"last year" = "last year";
+
+/* main menu */
+"Left to Right" = "Left to Right";
+
+/* license is granted. title of the dialog box. */
+"License added" = "License added";
+
+/* main menu */
+"License\\U2026" = "License…";
+
+/* main menu */
+"Ligature" = "Ligature";
+
+/* main menu */
+"List" = "List";
+
+/* displayed in mesage list: Loading */
+"Loading" = "Loading";
+
+/* main menu */
+"Log Message" = "Log Message";
+
+/* main menu */
+"Log Protocol" = "Log Protocol";
+
+/* main menu */
+"Lower" = "Lower";
+
+/* main menu */
+"Make Lower Case" = "Make Lower Case";
+
+/* main menu */
+"Make Upper Case" = "Make Upper Case";
+
+/* conversation list: menu item
+   main menu
+   Mark as Important menu item for priority inbox. */
+"Mark as Important" = "Mark as Important";
+
+/* conversation list: menu item
+   Mark as Read menu item */
+"Mark as Read" = "Označit jako přečtené";
+
+/* conversation list: menu item
+   main menu
+   Mark as Spam menu item */
+"Mark as Spam" = "Označit jako nevyžádané";
+
+/* conversation list: menu item
+   main menu
+   Mark as Starred menu item */
+"Mark as Starred" = "Označit jako oblíbené";
+
+/* conversation list: menu item
+   main menu
+   Mark as Unread menu item */
+"Mark as Unread" = "Označit jako nepřečtené";
+
+/* main menu */
+"Message" = "Zpráva";
+
+/* Search suggestions */
+"Message contains \"%@\"" = "Zpráva obsahuje \"%@\"";
+
+/* Message could not be sent. title of the dialog. */
+"Message could not be sent" = "Message could not be sent";
+
+/* search term */
+"Message has Attachment" = "Zpráva obsahuje přílohu";
+
+/* search term */
+"Message in Trash" = "Message in Trash";
+
+/* search term */
+"Message is Draft" = "Zpráva je rozepsaná";
+
+/* search term */
+"Message is Important" = "Zpráva je důležitá";
+
+/* search term */
+"Message is Read" = "Zpráva je přečtená";
+
+/* search term */
+"Message is Sent" = "Zpráva je odeslaná";
+
+/* search term */
+"Message is Spam" = "Zpráva je nevyžádaná";
+
+/* search term */
+"Message is Starred" = "Zpráva je oblíbená";
+
+/* search term */
+"Message is Unread" = "Zpráva je nepřečtená";
+
+/* account needed to open a compose window. title of the dialog box. */
+"Message not found" = "Zpráva nebyla nalezena";
+
+/* main menu */
+"Message Panel" = "Message Panel";
+
+/* Messages are being sent while quitting. description in the dialog box. */
+"Messages are being sent. If you quit now, this will cancel the progress. Messages will be kept as drafts." = "Messages are being sent. If you quit now, this will cancel the progress. Messages will be kept as drafts.";
+
+/* main menu */
+"Minimize" = "Minimize";
+
+/* search term */
+"Monday" = "Pondělí";
+
+/* search token: completion string */
+"monday" = "pondělí";
+
+/* Move To menu item
+   Move To menu item (as title of the menu)
+   Move To menu item (generic imap) */
+"Move To" = "Move To";
+
+/* conversation list: menu item
+   main menu */
+"Move to Inbox" = "Přesunout do příchozí";
+
+/* error description. */
+"Namespace is not available." = "Namespace is not available.";
+
+/* status bar text: when no sync has occurred for the selected folder. */
+"Never updated" = "Never updated";
+
+/* main menu */
+"New Message" = "Nová zpráva";
+
+/* tooltip of the compose toolbar button */
+"New message" = "Nová zpráva";
+
+/* name of the growl notification of Sparrow for the preferences of Growl in the prefs panel */
+"New Message Notification" = "New Message Notification";
+
+/* displayed in message list: No conversations */
+"No conversations" = "No conversations";
+
+/* in labels list menu */
+"No folders" = "No folders";
+
+/* in labels list menu */
+"No labels" = "No labels";
+
+/* No Twitter accounts alert view title */
+"No Twitter accounts" = "No Twitter accounts";
+
+/* main menu */
+"None" = "None";
+
+/* conversation list: menu item
+   Not Important menu item for priority inbox. */
+"Not Important" = "Not Important";
+
+/* conversation list: menu item
+   Not Spam menu item */
+"Not Spam" = "Not Spam";
+
+/* main menu */
+"Numbered" = "Numbered";
+
+/* main menu */
+"Open Message" = "Otevřít zprávu";
+
+/* main menu */
+"Page Setup\\U2026" = "Page Setup…";
+
+/* main menu */
+"Paragraph" = "Paragraph";
+
+/* main menu */
+"Paste" = "Vložit";
+
+/* main menu */
+"Paste and Match Style" = "Paste and Match Style";
+
+/* main menu */
+"Paste Ruler" = "Paste Ruler";
+
+/* main menu */
+"Paste Style" = "Paste Style";
+
+/* Pending for send message indication */
+"Pending" = "Pending";
+
+/* search token */
+"PEOPLE" = "PEOPLE";
+
+/* Search suggestions category */
+"People" = "People";
+
+/* invalidate license: description in the dialog box. */
+"Please buy a valid license." = "Please buy a valid license.";
+
+/* sparrow is already running. description of dialog box. */
+"Please quit the other instance of Sparrow." = "Please quit the other instance of Sparrow.";
+
+/* main menu */
+"Prefer Plain Text" = "Prefer Plain Text";
+
+/* Preferences button in dialog box
+   Preferences button in error dialog in case of login error */
+"Preferences" = "Preferences";
+
+/* main menu */
+"Preferences\\U2026" = "Preferences…";
+
+/* pop activity */
+"prepare to receive %i messages" = "prepare to receive %i messages";
+
+/* main menu */
+"Print\\U2026" = "Print…";
+
+/* tooltip for Priority */
+"Priority" = "Priority";
+
+/* inbox selection bar: Priority Inbox */
+"Priority Inbox" = "Priority Inbox";
+
+/* Push mail is not available. */
+"Push mail is not available." = "Push mail is not available.";
+
+/* main menu */
+"Quick Reply" = "Quick Reply";
+
+/* main menu */
+"Quick Reply All" = "Quick Reply All";
+
+/* Quit button when sparrow expired in the dialog */
+"Quit" = "Quit";
+
+/* main menu */
+"Quit Sparrow" = "Quit Sparrow";
+
+/* Quit without Sending button when sending while quitting */
+"Quit without Sending" = "Quit without Sending";
+
+/* main menu */
+"Raise" = "Raise";
+
+/* search term */
+"Read" = "Read";
+
+/* main menu */
+"Redo" = "Redo";
+
+/* main menu
+   Refresh button in dialog box */
+"Refresh" = "Refresh";
+
+/* A new version is available. Remind me later button */
+"Remind me later" = "Remind me later";
+
+/* main menu */
+"Remove Formatting" = "Remove Formatting";
+
+/* conversation list: menu item
+   Remove Star menu item */
+"Remove Star" = "Remove Star";
+
+/* conversation list: menu item
+   label of the reply toolbar button
+   main menu
+   menu item for reply toolbar button
+   tooltip of the reply toolbar button */
+"Reply" = "Reply";
+
+/* conversation list: menu item
+   main menu
+   menu item for reply toolbar button */
+"Reply All" = "Reply All";
+
+/* main menu */
+"Restore" = "Restore";
+
+/* conversation list: menu item */
+"Restore from Trash" = "Restore from Trash";
+
+/* main menu */
+"Right to Left" = "Right to Left";
+
+/* search token: completion string */
+"saturday" = "saturday";
+
+/* search term */
+"Saturday" = "Saturday";
+
+/* conversation list: menu item
+   main menu */
+"Save All Attachments" = "Uložit přílohy";
+
+/* conversation list: menu item */
+"Save Attachment" = "Uložit přílohu";
+
+/* conversation list: menu item */
+"Save Attachment As\\U2026" = "Save Attachment As…";
+
+/* main menu */
+"Save Draft" = "Save Draft";
+
+/* saving attachment progress description, %@ is the filename of the attachment. */
+"Saving %@" = "Saving %@";
+
+/* main menu
+   tooltip for Search */
+"Search" = "Hledat";
+
+/* main menu */
+"Search Messages" = "Search Messages";
+
+/* displayed in mesage list: Searching */
+"Searching" = "Searching";
+
+/* error description (for gmail). */
+"Secure connection is not currently available on Gmail. Please retry later." = "Secure connection is not currently available on Gmail. Please retry later.";
+
+/* main menu */
+"Select All" = "Vybrat vše";
+
+/* main menu */
+"Select Labels/Folders" = "Select Labels/Folders";
+
+/* main menu */
+"Select Next Account" = "Select Next Account";
+
+/* main menu */
+"Select Previous Account" = "Select Previous Account";
+
+/* main menu */
+"Selection" = "Selection";
+
+/* main menu */
+"Send and Archive" = "Odeslat a archivovat";
+
+/* main menu */
+"Send Message" = "Odeslat zprávu";
+
+/* sending progress description, %@ is the subject of the message
+   sending progress description, parameter is the subject of the message */
+"Sending %@" = "Sending %@";
+
+/* search term
+   tooltip for Sent Messages */
+"Sent" = "Odeslané";
+
+/* main menu */
+"Sent Mail" = "Sent Mail";
+
+/* name of the folder in error message when the folder is not available */
+"Sent Messages" = "Sent Messages";
+
+/* main menu */
+"Services" = "Služby";
+
+/* account needed to open a compose window. title of the dialog box.
+   account needed to open a compose window. title the dialog box.
+   Title of the error dialog, when applescript is used and no account is available. */
+"Set up one account" = "Set up one account";
+
+/* Button title to jump to Settings.app */
+"Settings" = "Nastavení";
+
+/* main menu */
+"Show All" = "Show All";
+
+/* main menu */
+"Show Colors" = "Zobrazit barvy";
+
+/* main menu */
+"Show Data Folder" = "Show Data Folder";
+
+/* main menu */
+"Show Fonts" = "Zobrazit písma";
+
+/* main menu */
+"Show Format Bar" = "Show Format Bar";
+
+/* main menu */
+"Show Log Folder" = "Show Log Folder";
+
+/* main menu */
+"Show Ruler" = "Show Ruler";
+
+/* main menu */
+"Show Spelling And Grammar" = "Show Spelling And Grammar";
+
+/* main menu */
+"Show Substitutions" = "Show Substitutions";
+
+/* main menu */
+"Sidebar" = "Sidebar";
+
+/* main menu */
+"Smaller" = "Smaller";
+
+/* main menu */
+"Smart Copy/Paste" = "Smart Copy/Paste";
+
+/* main menu */
+"Smart Dashes" = "Smart Dashes";
+
+/* main menu */
+"Smart Links" = "Smart Links";
+
+/* main menu */
+"Smart Quotes" = "Smart Quotes";
+
+/* search term
+   spam bar label
+   Spam menu item in popup menu, in labels menu
+   Spam menu item, in labels menu
+   tooltip for Spam */
+"Spam" = "Nevyžádané";
+
+/* main menu */
+"Sparrow" = "Sparrow";
+
+/* main menu */
+"Sparrow Help" = "Sparrow Help";
+
+/* Sparrow is already running. title of dialog box. */
+"Sparrow is already running" = "Sparrow is already running";
+
+/* error description (for gmail). */
+"Sparrow is trying to connect to a server that is pretending to be Gmail server." = "Sparrow is trying to connect to a server that is pretending to be Gmail server.";
+
+/* error description (generic imap). */
+"Sparrow is trying to connect to a server that is pretending to the mail server." = "Sparrow is trying to connect to a server that is pretending to the mail server.";
+
+/* main menu */
+"Speech" = "Speech";
+
+/* main menu */
+"Spelling and Grammar" = "Spelling and Grammar";
+
+/* main menu
+   name of the folder in error message when the folder is not available
+   search term
+   tooltip for Starred */
+"Starred" = "Starred";
+
+/* main menu */
+"Start Speaking" = "Start Speaking";
+
+/* search token */
+"STATUS" = "STATUS";
+
+/* search suggestion category */
+"Status" = "Status";
+
+/* label in special cell in message list. */
+"Still searching\\U2026" = "Stále hledám ...";
+
+/* main menu */
+"Stop Speaking" = "Stop Speaking";
+
+/* search token */
+"SUBJECT" = "PŘEDMĚT";
+
+/* search bar
+   search suggestion menu */
+"Subject" = "Předmět";
+
+/* Search suggestions */
+"Subject contains \"%@\"" = "Předmět obsahuje \"%@\"";
+
+/* search token prefix */
+"subject:" = "předmět:";
+
+/* search suggestions category */
+"Subjects" = "Subjects";
+
+/* main menu */
+"Subscript" = "Subscript";
+
+/* main menu */
+"Substitutions" = "Substitutions";
+
+/* search token: completion string */
+"sunday" = "neděle";
+
+/* search term */
+"Sunday" = "Neděle";
+
+/* main menu */
+"Superscript" = "Superscript";
+
+/* error description */
+"Synchronization failed. Please, retry later." = "Synchronizace selhala. Zkuste to prosím později.";
+
+/* label in special cell in message list. */
+"Synchronization is not finished. Search results may be incomplete." = "Synchronization is not finished. Search results may be incomplete.";
+
+/* error description. %@ is the mail of the account. */
+"Synchronization of %@ failed. Please, retry later." = "Synchronization of %@ failed. Please, retry later.";
+
+/* fonts broken on the system. title of the dialog box. */
+"System font is missing" = "Systémové písmo chybí";
+
+/* main menu */
+"Text" = "Text";
+
+/* main menu */
+"Text Replacement" = "Text Replacement";
+
+/* when folder is not found. error message in case of gmail. description in the dialog box. %@ is the name of the folder. */
+"The \"%@\" folder cannot be synced properly. Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly." = "The \"%@\" folder cannot be synced properly. Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly.";
+
+/* The attachment could not be downloaded. description in the dialog box. %@ is the filename of the attachment. */
+"The attachment \"%@\" could not be downloaded. Please retry later." = "The attachment \"%@\" could not be downloaded. Please retry later.";
+
+/* The attachment could not be downloaded. no filename is available for the attachment. description in the dialog box. */
+"The attachment could not be downloaded. Please retry later." = "Přílohu se nepodařilo stáhnout. Zkuste to prosím později.";
+
+/* error when a folder creation failed, title of the dialog */
+"The folder could not be created" = "Složku nelze vytvořit";
+
+/* error description. */
+"The folder could not be created. The name might not be valid." = "The folder could not be created. The name might not be valid.";
+
+/* error when a folder deletion failed, title of the dialog */
+"The folder could not be deleted" = "Složku nelze smazat";
+
+/* error description. */
+"The folder could not be deleted." = "Složku nelze smazat.";
+
+/* error when a label creation failed, title of the dialog */
+"The label could not be created" = "Štítek nelze vytvořit";
+
+/* error description. */
+"The label could not be created. The name might not be valid." = "The label could not be created. The name might not be valid.";
+
+/* error when a label deletion failed, title of the dialog */
+"The label could not be deleted" = "Štítek nelze smazat";
+
+/* error description. */
+"The label could not be deleted." = "Štítek nelze smazat.";
+
+/* error description. %@ is the subject of the email. */
+"The message \"%@\" could not be sent. It contains attachments that are not allowed." = "The message \"%@\" could not be sent. It contains attachments that are not allowed.";
+
+/* The message could not be sent. description in the dialog. %@ is the subject of the message */
+"The message \"%@\" could not be sent. Please retry later." = "Zprávu \"%@\" nelze odeslat. Zkuste to prosím později.";
+
+/* error description. %@ is the subject of the email. */
+"The message \"%@\" could not be sent. Please, visit your mail account on the web once. It will allow Sparrow to connect properly afterwards." = "The message \"%@\" could not be sent. Please, visit your mail account on the web once. It will allow Sparrow to connect properly afterwards.";
+
+/* error description. %@ is the subject of the email. */
+"The message \"%@\" could not be sent. The alias is probably wrong or the recipient is not allowed." = "The message \"%@\" could not be sent. The alias is probably wrong or the recipient is not allowed.";
+
+/* error description. %@ is the subject of the message, first %i is the error code, second %i is the smtp error code, %@ is a non-localized description sent by the server. */
+"The message \"%@\" could not be sent. Unexpected error (%i/%i/%@)." = "The message \"%1$@\" could not be sent. Unexpected error (%2$i/%3$i/%4$@).";
+
+/* error description. %@ is the subject of the email. */
+"The message cannot be saved to Drafts. The attachments of the message \"%@\" are probably too large." = "The message cannot be saved to Drafts. The attachments of the message \"%@\" are probably too large.";
+
+/* error description. */
+"The message cannot be saved to Drafts. The attachments of the message are probably too large." = "The message cannot be saved to Drafts. The attachments of the message are probably too large.";
+
+/* error description for message without subject. */
+"The message cannot be saved to Drafts. The attachments of the message with no subject are probably too large." = "The message cannot be saved to Drafts. The attachments of the message with no subject are probably too large.";
+
+/* error description. */
+"The message could not be moved to Trash. Please retry later." = "Zprávu nelze přesunout do koše. Zkuste to prosím později.";
+
+/* error description (for gmail). */
+"The message could not be saved to Drafts. Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly." = "The message could not be saved to Drafts. Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly.";
+
+/* error description (generic imap). */
+"The message could not be saved to Drafts. This mailbox was not found and could not be created." = "The message could not be saved to Drafts. This mailbox was not found and could not be created.";
+
+/* error description. */
+"The message could not be sent." = "Zprávu nelze odeslat.";
+
+/* error description for email without subject.
+   error description. */
+"The message could not be sent. It contains attachments that are not allowed." = "Zprávu nelze odeslat, protože obsahuje nepovolené přílohy.";
+
+/* error description. */
+"The message could not be sent. Please retry later." = "Zprávu nelze odeslat. Zkuste to prosím později.";
+
+/* error description for email without subject. */
+"The message could not be sent. Please, visit your mail account on the web once. It will allow Sparrow to connect properly afterwards." = "The message could not be sent. Please, visit your mail account on the web once. It will allow Sparrow to connect properly afterwards.";
+
+/* error description for email without subject.
+   error description. */
+"The message could not be sent. The alias is probably wrong or the recipient is not allowed." = "The message could not be sent. The alias is probably wrong or the recipient is not allowed.";
+
+/* error description. %@ is the subject of the email. */
+"The message could not be sent. The attachments of the message \"%@\" are probably too large." = "The message could not be sent. The attachments of the message \"%@\" are probably too large.";
+
+/* error description. */
+"The message could not be sent. The attachments of the message are probably too large." = "Zprávu nelze odeslat. Přiložené přílohy jsou pravdepodobně příliš velké.";
+
+/* error description for email without subject. */
+"The message could not be sent. The attachments of the message with no subject are probably too large." = "Zprávu nelze odeslat. Přiložené přílohy ve zprávě bez předmětu jsou pravděpodobně příliš velké.";
+
+/* error description. first %i is the error code, second %i is the smtp error code, %@ is a non-localized description sent by the server. */
+"The message could not be sent. Unexpected error (%i/%i/%@)." = "Zprávu nelze odeslat, protože nastala neočekávaná chyba (%1$i/%2$i/%3$@).";
+
+/* database could not be created. description of dialog box. */
+"The message database cannot be found or created, and is required. The default location for this folder is in Library > Application Folder > Sparrow." = "The message database cannot be found or created, and is required. The default location for this folder is in Library > Application Folder > Sparrow.";
+
+/* The message with no subject could not be sent. description in the dialog. */
+"The message with no subject could not be sent. Please retry later." = "The message with no subject could not be sent. Please retry later.";
+
+/* when a message is opened using a URL. %@ is the URL */
+"The message with the URL %@ could not be found." = "The message with the URL %@ could not be found.";
+
+/* error when a folder rename failed, title of the dialog */
+"The name of the folder could not be changed" = "Složku nelze přejmenovat";
+
+/* error when a label rename failed, title of the dialog */
+"The name of the label could not be changed" = "Štítek nelze přejmenovat";
+
+/* error description. */
+"The name of this folder could not be changed. The name might not be valid." = "Složku nelze přejmenovat, protože název není ve správném formátu.";
+
+/* error description. */
+"The name of this label could not be changed. The name might not be valid." = "Štítek nelze přejmenovat, protože název není ve správném formátu.";
+
+/* generic error on folder, title of the dialog
+   generic error on label, title of the dialog */
+"The operation could not be performed" = "Operaci nelze dokončit";
+
+/* error description. */
+"The sent message could not be saved to \"Sent Messages\"." = "Odeslanou zprávu nelze uložit do složky \"Odeslané\".";
+
+/* No Twitter accounts alert view message */
+"There are no Twitter accounts configured. You can add or create a Twitter account in Settings" = "There are no Twitter accounts configured. You can add or create a Twitter account in Settings";
+
+/* When CloudApp file size limit is reached. */
+"This file is too large to be uploaded to CloudApp." = "Soubor je příliš velký pro nahrání na CloudApp.";
+
+/* error description. */
+"This folder could not be opened. Please retry later." = "Nelze otevřit složku. Zkuste to prosím později.";
+
+/* license is granted. %@ is the name. description in the dialog box. */
+"This license is granted to %@" = "Licence je udělena  %@";
+
+/* license is granted. first %@ is the name. second %@ is the email. description in the dialog box. */
+"This license is granted to %@ <%@>" = "Licence je udělena %1$@ <%2$@>";
+
+/* invalid license: title of the dialog box. */
+"This license is not valid" = "Licence není platná";
+
+/* message cell: when the message has no text content */
+"This message has no content." = "Zpráva je prázdná.";
+
+/* search token: completion string */
+"this month" = "tento měsíc";
+
+/* search term */
+"This Month" = "Tento měsíc";
+
+/* sparrow expired. title of dialog box. */
+"This version expired" = "This version expired";
+
+/* Title of the dialog box: Leopard double update message. */
+"This version is not compatible with Leopard" = "This version is not compatible with Leopard";
+
+/* sparrow expired. description of dialog box. */
+"This version of Sparrow has expired. Please download the latest version." = "This version of Sparrow has expired. Please download the latest version.";
+
+/* search term */
+"This Week" = "Tento týden";
+
+/* search token: completion string */
+"this week" = "tento týden";
+
+/* search term */
+"This Year" = "Tento rok";
+
+/* search token: completion string */
+"this year" = "tento rok";
+
+/* search token: completion string */
+"thursday" = "čtvrtek";
+
+/* search term */
+"Thursday" = "Čtvrtek";
+
+/* search token */
+"TO" = "KOMU";
+
+/* message cell: in sent mailbox, before recipient
+   search bar
+   search suggestion menu */
+"To" = "Komu";
+
+/* search token prefix */
+"to:" = "komu:";
+
+/* search token: completion string */
+"today" = "dnes";
+
+/* search term */
+"Today" = "Dnes";
+
+/* error description. %@ is the email of the account. */
+"Too many simultaneous connections to %@." = "Too many simultaneous connections to %@.";
+
+/* error description. */
+"Too many simultaneous connections your account." = "Too many simultaneous connections your account.";
+
+/* main menu */
+"Transformations" = "Transformations";
+
+/* main menu
+   name of the folder in error message when the folder is not available
+   search term
+   tooltip for Trash
+   trash bar label */
+"Trash" = "Koš";
+
+/* search term */
+"Tuesday" = "Úterý";
+
+/* search token: completion string */
+"tuesday" = "úterý";
+
+/* main menu */
+"Underline" = "Underline";
+
+/* main menu */
+"Undo" = "Undo";
+
+/* Unexpected error %@ is the error domain. %i is the error code. */
+"Unexpected error (%@/%i)" = "Unexpected error (%1$@/%2$i)";
+
+/* Unexpected error when connecting to CloudApp */
+"Unexpected error while connecting to CloudApp servers." = "Unexpected error while connecting to CloudApp servers.";
+
+/* tooltip: Unified Inbox */
+"Unified Inbox" = "Unified Inbox";
+
+/* buy text */
+"Unlock all Sparrow's features now" = "Unlock all Sparrow's features now";
+
+/* inbox selection bar: Unread
+   search term
+   tooltip for Unread */
+"Unread" = "Unread";
+
+/* default name of the saved file if the attachment has no filename.
+   when attachment has no filename, name used for the progress */
+"Untitled" = "Untitled";
+
+/* A new version is available. Update button */
+"Update" = "Update";
+
+/* status bar text: %@ is the last sync date */
+"Updated on %@" = "Updated on %@";
+
+/* main menu */
+"Use All" = "Use All";
+
+/* main menu */
+"Use Default" = "Use Default";
+
+/* main menu */
+"Use Loosen" = "Use Loosen";
+
+/* main menu */
+"Use None" = "Use None";
+
+/* main menu */
+"Use Selection for Find" = "Use Selection for Find";
+
+/* main menu */
+"Use Tighten" = "Use Tighten";
+
+/* search term */
+"Wednesday" = "Středa";
+
+/* search token: completion string */
+"wednesday" = "středa";
+
+/* main menu */
+"Window" = "Window";
+
+/* main menu */
+"Writing Direction" = "Writing Direction";
+
+/* search term */
+"Yesterday" = "Včera";
+
+/* search token: completion string */
+"yesterday" = "včera";
+
+/* when pressing on the empty trash button from trash bar, description */
+"You can't undo this action." = "You can't undo this action.";
+
+/* account needed to open a compose window. description in the dialog box.
+   Text of the error dialog, when applescript is used and no account is available. */
+"You have to set up at least one account to be able to send emails." = "You have to set up at least one account to be able to send emails.";
+
+/* installation corrupted: description in the dialog box. */
+"You should uninstall the application and download it again." = "You should uninstall the application and download it again.";
+
+/* When upload limit is reached on CloudApp. */
+"You've reached the daily upload limit allowed by the free plan of CloudApp." = "You've reached the daily upload limit allowed by the free plan of CloudApp.";
+
+/* error description. */
+"You've reached your storage limit on Dropbox. Please clean up your dropbox files and retry." = "You've reached your storage limit on Dropbox. Please clean up your dropbox files and retry.";
+
+/* error description */
+"Your account moved to iCloud. Connect to http://me.com/move and retry." = "Your account moved to iCloud. Connect to http://me.com/move and retry.";
+
+/* main menu */
+"Zoom" = "Zoom";
+
