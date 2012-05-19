@@ -1,0 +1,668 @@
+/* display string of the alias, when a custom SMTP has been defined. %@ is the email address. */
+"%@ (has SMTP)" = "%@ (té SMTP)";
+
+/* separator between friends list (first %@) and last friend (second %@) */
+"%@ and %@" = "%1$@ i %2$@";
+
+/* when there are more than 4 friends. %@ is the friends list. */
+"%@ and more" = "%@ i més";
+
+/* plural form of using sparrow. %@ is the list of the name of the friends */
+"%@ are using Sparrow." = "%@ utilitzen Sparrow.";
+
+/* singular form of using sparrow. %@ is the name of the friend */
+"%@ is using Sparrow." = "%@ utilitza Sparrow.";
+
+/* separator between friends list (first %@) and friend (second %@). */
+"%@, %@" = "%1$@, %2$@";
+
+/* prefs > organize > advanced, in popup button, when IMAP prefix is empty */
+"(Empty prefix)" = "(Prefixe buit)";
+
+/* general prefs */
+"(Will be active at next restart)" = "(Estarà actiu al proper reinici)";
+
+/* link to appstore. */
+"<a href=\"http://www.sprw.me/iphone-appstore.php?tracking=mac2iphone\">Get it!</a>" = "<a href=\"http://www.sprw.me/iphone-appstore.php?tracking=mac2iphone\">Obten-lo!</a>";
+
+/* Account (lite mode) section in preferences */
+"Account" = "Compte";
+
+/* Accounts section in preferences
+   prefs tab items */
+"Accounts" = "Comptes";
+
+/* email/password assistant. lite version limitation. */
+"Accounts other than Gmail are not supported in this version." = "A aquesta versió només és compatible amb comptes de Gmail.";
+
+/* title of assistant window */
+"Add Account" = "Afegeix compte";
+
+/* Add folder at the same level menu item. %@ is the name of the folder. */
+"Add folder at the same level as \"%@\"\\U2026" = "Afegeix carpeta al mateix nivell que \"%@\"…";
+
+/* Add folder below menu item. %@ is the name of the folder. */
+"Add folder below \"%@\"\\U2026" = "Afegeix carpeta sota de \"%@\"…";
+
+/* folders prefs: tab item
+   prefs tab items */
+"Advanced" = "Avançat";
+
+/* account selection label */
+"Alias for:" = "Àlies de:";
+
+/* prefs tab items */
+"Aliases" = "Àlies";
+
+/* advanced prefs */
+"Always reply all" = "Sempre respon a tothom";
+
+/* Assistant: when an account with the same email already exists. */
+"An account with the same information has already been entered." = "Ja s'ha introduït un compte amb la mateixa informació.";
+
+/* Assistant: when an account has an alias with the same email address. */
+"An alias with the same email has already been entered." = "Ja s'ha introduït un àlies amb el mateix correu electrònic.";
+
+/* folders prefs: folder mapping */
+"Archive Folder" = "Carpeta Arxivats";
+
+/* account deletion confirmation. %@ is the email. title of the dialog box. */
+"Are you sure you want to delete the account \"%@\"?" = "Segur que vols esborrar el compte \"%@\"?";
+
+/* confirm alias deletion. %@ is the email. title of the dialog box. */
+"Are you sure you want to delete the alias \"%@\"?" = "Segur que vols esborrar l'àlies \"%@\"?";
+
+/* when removing a folder from preferences, title of dialog box */
+"Are you sure you want to delete the folder \"%@\"?" = "Segur que vols esborrar la carpeta \"%@\"?";
+
+/* when removing a label from preferences, title of dialog box */
+"Are you sure you want to delete the label \"%@\"?" = "Segur que vols esborrar l'etiqueta \"%@\"?";
+
+/* when pressing on the disconnect button from facebook, description in the dialog box */
+"Are you sure you want to disconnect from Facebook?" = "Segur que vols desconnectar-te de Facebook?";
+
+/* cloudapp prefs: logged in */
+"Attach files with CloudApp" = "Adjunta arxius amb CloudApp";
+
+/* dropbox prefs: logged in */
+"Attach files with Dropbox" = "Adjunta arxius amb Dropbox";
+
+/* imap assistant, placeholder for port */
+"Auto" = "Auto";
+
+/* smtp assistant */
+"Auto tries port 465, 587 and 25" = "Auto prova port 465, 587 i 25";
+
+/* imap assistant */
+"Auto tries port 993, then 143" = "Auto prova port 993, després 143";
+
+/* imap assistant */
+"Auto tries port 995, then 110" = "Auto prova port 995, després 110";
+
+/* license window: buy button */
+"Buy License" = "Compra llicència";
+
+/* upgrade window: buy button */
+"Buy Now" = "Compra ara";
+
+/* license window: when the application is not registered */
+"Buy your license to remove ads in\nSparrow." = "Compra la llicència per esborrar\nels anuncis de Sparrow.";
+
+/* account deletion confirmation. Cancel button
+   account edition
+   alias prefs: cancel button
+   cloudapp prefs: login
+   confirm alias deletion. Cancel button
+   imap assistant: Cancel button.
+   imap prefix: cancel button
+   smtp assistant. Cancel button.
+   when disconnecting from facebook: Cancel button
+   when removing a folder from preferences: Cancel button */
+"Cancel" = "Cancel·la";
+
+/* title when no internet connction or facebook.com unreachable */
+"Cannot connect to Facebook" = "No és possible connectar-se a Facebook";
+
+/* when folder name is not valid. %@ is the name of the label. */
+"Cannot create folder named \"%@\"" = "No es pot crear la carpeta \"%@\"";
+
+/* when label name is not valid. %@ is the name of the label. */
+"Cannot create label named \"%@\"" = "No es pot crear l'etiqueta \"%@\"";
+
+/* when folder name is not valid. %@ is the name of the label. */
+"Cannot rename folder to \"%@\"" = "No es pot renombrar la carpeta \"%@\"";
+
+/* when label name is not valid. %@ is the name of the label. */
+"Cannot rename label to \"%@\"" = "No es pot renombrar l'etiqueta \"%@\"";
+
+/* prefs > organize > advanced, in imap prefix popup */
+"Choose IMAP Prefix\\U2026" = "Escull prefixe IMAP…";
+
+/* alias smtp choice assistant */
+"Choose your SMTP setting for this alias." = "Escull les opcions SMTP per aquest àlies.";
+
+/* assistant, basic view, bottom button
+   imap assistant, button
+   smtp assistant, bottom button */
+"Close" = "Tanca";
+
+/* labels prefs: column name */
+"Color" = "Color";
+
+/* advanced prefs */
+"Composer:" = "Creació:";
+
+/* cloudapp prefs: login */
+"Connect" = "Connecta";
+
+/* ask user to connect to facebook
+   title of assistant window */
+"Connect to Facebook" = "Connectar-se a Facebook";
+
+/* tell user is connected to facebook */
+"Connected to Facebook!" = "Connectat a Facebook.";
+
+/* informative message when no internet conenction or facebook.com unreachable */
+"Connection to Facebook could not be established. Either your connection is not available or Facebook is unavailable. Please retry later." = "No s'ha pogut establir una connexió amb Facebook. La teva connexió a Internet o Facebook no estan disponibles. Torna-ho a provar més tard.";
+
+/* advanced prefs */
+"Conversation View:" = "Vista de conversa:";
+
+/* Could not connect to Dropbox. */
+"Could not connect" = "No es pot connectar";
+
+/* assistant, basic view, bottom button
+   email/password assistant. Create button. */
+"Create" = "Crea";
+
+/* title of assistant window */
+"Custom SMTP for Alias" = "SMTP especificat per l'àlies";
+
+/* assistant, basic view, bottom button */
+"Custom\\U2026" = "Personalitzat…";
+
+/* column name for alias preferences */
+"Default" = "Per defecte";
+
+/* account deletion confirmation. Delete button
+   confirm alias deletion. Delete button
+   when removing a folder from preferences: Delete button */
+"Delete" = "Esborra";
+
+/* account edition, pop setting */
+"Delete from server after 1 month" = "Esborra del servidor després d'un mes";
+
+/* account edition, pop setting */
+"Delete from server after 7 days" = "Esborra del servidor després de 7 dies";
+
+/* advanced prefs */
+"Delete key moves to trash" = "La tecla Suprimir envia a la paperera";
+
+/* advanced prefs */
+"Disable quick reply" = "Desactiva resposta ràpida";
+
+/* cloudapp prefs: logged in
+   when disconnecting from facebook: Disconnect button */
+"Disconnect" = "Desconnecta";
+
+/* button to disconnect from facebook action */
+"Disconnect from Facebook" = "Desconnecta de Facebook";
+
+/* restart needed. title of the dialog box. */
+"Do you want to restart?" = "Vols reiniciar?";
+
+/* general prefs */
+"Dock and Menu Bar" = "Dock i barra de menú";
+
+/* cloudapp prefs: login */
+"Don't have an account?" = "No tens un compte?";
+
+/* account edition
+   alias prefs: done button
+   facebook assistant. Done button
+   imap prefix: done button
+   iphone app assistant
+   SMTP alias activation. Done button */
+"Done" = "D'acord";
+
+/* advanced prefs */
+"Download messages on demand" = "Descarregar missatges per petició";
+
+/* folders prefs: folder mapping */
+"Drafts Folder" = "Carpeta Esborranys";
+
+/* account prefs
+   button label */
+"Edit" = "Edita";
+
+/* account prefs: column name
+   column name for alias preferences */
+"Email" = "Correu electrònic";
+
+/* account edition
+   alias prefs: label for email
+   assistant, basic view
+   cloudapp prefs: login */
+"Email:" = "Correu:";
+
+/* for non-registered version, only one account is allowed: email field. %@ is the email address */
+"Email: %@" = "Correu: %@";
+
+/* advanced prefs */
+"Enable send and archive" = "Activa “Envia i arxiva”";
+
+/* assistant, basic view */
+"Enter your email address and your password" = "Introdueix la teva adreça de correu electrònic i la teva contrasenya";
+
+/* prefs tab items */
+"Facebook" = "Facebook";
+
+/* imap assistant */
+"Fill in your receiving server information" = "Introdueix la informació del teu servidor de recepció";
+
+/* smtp assistant */
+"Fill in your sending server information" = "Introdueix la informació del teu servidor d'enviament";
+
+/* folders prefs: column name
+   folders prefs: tab item */
+"Folders" = "Carpetes";
+
+/* label in front of popup button (generic imap) */
+"Folders for:" = "Carpetes per:";
+
+/* cloudapp preferences: Forgot your password link */
+"Forgot your password" = "He oblidat la contrasenya";
+
+/* prefs tab items */
+"General" = "General";
+
+/* Get a pro account on the CloudApp Store */
+"Get a pro account on the CloudApp Store" = "Aconsegueix un compte Pro a la tenda de CloudApp";
+
+/* Get more space Dropbox */
+"Get more space" = "Aconsegueix més espai";
+
+/* iphone app assistant */
+"Got an iPhone or iPod touch?" = "Tens un iPhone o iPod touch?";
+
+/* advanced prefs */
+"Hide message preview" = "Amaga vista prèvia del missatge";
+
+/* advanced prefs */
+"Hide pictures" = "Amaga imatges";
+
+/* advanced prefs */
+"Hide selection bar in Inbox" = "Amaga barra de selecció a la safata";
+
+/* text for facebook post to wall. */
+"I have just downloaded Sparrow Mail for Mac." = "Acabo de descarregar Sparrow Mail per Mac.";
+
+/* imap assistant, account type */
+"IMAP" = "IMAP";
+
+/* folders prefs: imap prefix */
+"IMAP Prefix" = "Prefixe IMAP";
+
+/* account edition
+   alias prefs: placeholder for name
+   assistant, basic view, placeholder for name */
+"John Doe" = "Jordi Martorell";
+
+/* alias prefs: placeholder for email */
+"john.doe@etpan.org" = "jordi.martorell@etpan.org";
+
+/* account edition
+   assistant, basic view, placeholder for email
+   cloudapp prefs: login
+   imap assistant, placeholder for login */
+"john.doe@sparrowmailapp.com" = "jordi.martorell@sparrowmailapp.com";
+
+/* advanced prefs */
+"Keyboard:" = "Teclat:";
+
+/* labels prefs: column name */
+"Labels" = "Etiquetes";
+
+/* label in front of popup button (for gmail) */
+"Labels for:" = "Etiquetes per:";
+
+/* license window: later button
+   restart needed. Later button
+   skip facebook registration */
+"Later" = "Més tard";
+
+/* license: title of the window */
+"License" = "Llicència";
+
+/* imap assistant
+   smtp assistant */
+"Login:" = "Login:";
+
+/* button label */
+"Make Default" = "Uitlitza per defecte";
+
+/* iphone app assistant */
+"Make sparrow the default e-mail reader" = "Utilitza Sparrow per correu per defecte";
+
+/* general prefs */
+"Make Sparrow the default mail reader" = "Utilitza Sparrow per correu per defecte";
+
+/* advanced prefs */
+"Message List:" = "Llista de missatges:";
+
+/* account edition */
+"Messages:" = "Missatges:";
+
+/* button label for custom smtp */
+"More\\U2026" = "Més...";
+
+/* column name for alias preferences */
+"Name" = "Nom";
+
+/* account edition
+   alias prefs: label for name */
+"Name:" = "Nom:";
+
+/* account edition, pop setting */
+"Never delete from server" = "No esborrar mai del servidor";
+
+/* default folder name when creating a folder. */
+"New Folder" = "Carpeta nova";
+
+/* advanced prefs */
+"New message:" = "Missatge nou:";
+
+/* default label name when creating a label. */
+"newlabel" = "Etiqueta nova";
+
+/* go next assistant step
+   imap assistant, button
+   imap assistant. Next button.
+   SMTP alias activation. Next button
+   smtp assistant, bottom button
+   smtp assistant. Next button. */
+"Next" = "Següent";
+
+/* When no account is set. placeholder of the email address (lite mode). */
+"No Account" = "Cap compte";
+
+/* upgrade window: no thanks button */
+"No Thanks" = "No, gràcies";
+
+/* None menu item for folder mapping. */
+"None" = "Cap";
+
+/* account prefs
+   account prefs: column name */
+"Notifications" = "Notificacions";
+
+/* general prefs section */
+"Notifications:" = "Notificacions:";
+
+/* general prefs */
+"Only in Dock" = "Només al Dock";
+
+/* general prefs */
+"Only in Menu Bar" = "Només a la barra de menú";
+
+/* error description. */
+"Open Preferences > Facebook if you want to connect again." = "Obre Opcions > Facebook si vols tornar a connectar-te.";
+
+/* prefs tab items */
+"Organize" = "Organització";
+
+/* general prefs, save attachments to */
+"Other\\U2026" = "Altres…";
+
+/* account edition
+   assistant, basic view
+   cloudapp prefs: login
+   imap assistant
+   smtp assistant */
+"Password:" = "Contrasenya:";
+
+/* explain facebook new facebook profile picture
+   explain the reason why it is great to use facebook */
+"Personalize your Inbox with your friend's Facebook profile pictures." = "Personalitz la safata amb les imatges de perfil de Facebook dels teus amics.";
+
+/* account edition */
+"Photo:" = "Foto:";
+
+/* dropbox prefs: choose service */
+"Pick your cloud attachment service" = "Escull el teu servei d'arxius adjunts al núvol:";
+
+/* general prefs */
+"Play sound when receiving/sending mail" = "Reprodueix sons al rebre/enviar correu";
+
+/* cloudapp prefs: logged in */
+"Play sound when upload is finished" = "Reprodueix so al finalitzar la càrrega";
+
+/* imap assistant, account type */
+"POP" = "POP";
+
+/* imap assistant
+   smtp assistant */
+"Port:" = "Port:";
+
+/* preferences: title of the window */
+"Preferences" = "Opcions";
+
+/* imap prefix: done button */
+"Prefix:" = "Prefixe:";
+
+/* imap assistant, button
+   smtp assistant, bottom button */
+"Previous" = "Anterior";
+
+/* account edition */
+"Receiving Server:" = "Recepció:";
+
+/* folders prefs: button */
+"Refresh" = "Actualitza";
+
+/* account prefs */
+"Remove" = "Esborra";
+
+/* Removing account in progress. %@ is the email address. */
+"Removing %@\\U2026" = "Eliminant %@…";
+
+/* account edition
+   assistant, basic view, placeholder for password
+   cloudapp prefs: login
+   imap assistant, placeholder for password */
+"Required" = "Obligatòria";
+
+/* restart needed. Restart Now button */
+"Restart Now" = "Reinicia ara";
+
+/* general prefs section */
+"Save Attachments to:" = "Desa adjunts a:";
+
+/* imap assistant
+   smtp assistant */
+"Secure connection" = "Connexió segura";
+
+/* account edition */
+"Sending Server:" = "Enviament:";
+
+/* folders prefs: folder mapping */
+"Sent Folder" = "Carpeta Enviats";
+
+/* imap assistant */
+"Server Type:" = "Tipus de servidor:";
+
+/* imap assistant */
+"Server:" = "Servidor:";
+
+/* prefs tab items */
+"Services" = "Serveis";
+
+/* folders prefs: column name
+   labels prefs: column name */
+"Show" = "Mostra";
+
+/* general prefs section */
+"Show Icon in:" = "Mostra icona a:";
+
+/* advanced prefs */
+"Show older messages first" = "Mostra primer missatges més antics";
+
+/* advanced prefs */
+"Show remote images" = "Mostra imatges remotes";
+
+/* advanced prefs */
+"Show Unified Inbox" = "Mostra safata d'entrada unificada";
+
+/* advanced prefs */
+"Show/Hide Sparrow:" = "Mostra/Oculta tot:";
+
+/* prefs tab items */
+"Signature" = "Firma";
+
+/* email/password assistant. Skip Checks button */
+"Skip Checks" = "No comprovar";
+
+/* folders prefs: folder mapping */
+"Spam Folder" = "Carpeta Spam";
+
+/* error title. */
+"Sparrow has been disconnected from Facebook." = "Sparrow s'ha desconnectat de Facebook.";
+
+/* iphone app assistant */
+"Sparrow is also available on your mobile device. If you have an iPhone or iPod touch, extend your mail experience." = "Sparrow també està disponible pel teu mòbil. Si tens un iPhone o iPod touch, amplia la teva experiència de correu electrònic.";
+
+/* upgrade window: text contents of window */
+"Sparrow Lite is ad-supported.\nBuy the full version to remove ads\nand benefit of all the features." = "Sparrow Lite es subvenciona amb publicitat.\nCompra la versió complerta per eliminar-los\ni beneficiar-te de totes les funcions.";
+
+/* explain facebook new facebook profile picture */
+"Sparrow now integrates Facebook's profile pictures" = "Ara Sparrow integra les imatges de perfil de Facebook";
+
+/* cloudapp prefs: login */
+"Start sharing files right now. Already have an account? Sign in:" = "Comença a compartir arxius. Ja tens un compte? Connecta't:";
+
+/* general prefs */
+"Start Sparrow at Login" = "Obre Sparrow a l'iniciar sessió";
+
+/* iphone app assistant */
+"Subscribe to the newsletter" = "Subscriu-me a la newsletter";
+
+/* advanced prefs */
+"Sync Behavior:" = "Sincronització:";
+
+/* general prefs section */
+"System:" = "Sistema:";
+
+/* checkbox on/off post to facebook wall */
+"Tell your friends about Sparrow" = "Recomana Sparrow als teus amics";
+
+/* license window: when the application is registered */
+"Thank you for registering Sparrow." = "Gràcies per registrar Sparrow.";
+
+/* restart needed. description in the dialog box. */
+"The application needs to be restarted to reflect this change." = "Has de reiniciar l'aplicació per reflexar aquest canvi.";
+
+/* Assistant: error when no email has a bad syntax. */
+"The email you entered is not correct. Please check you typed it properly." = "El correu electrònic introduït és incorrecte. Comprova que ho has escrit correctament.";
+
+/* IMAP assistant: when no login has been entered.
+   SMTP Assistant: when no login has been entered. */
+"The login has not been entered. Please enter your login." = "No s'ha introduït el nom d'inici de sessió. Introdueix-lo, si us plau.";
+
+/* error message when adding/modifying alias */
+"This alias already exists" = "Aquest àlies ja existeix.";
+
+/* error message when adding/modifying alias */
+"This email already exists" = "Aquest correu electrònic ja existeix.";
+
+/* error message when adding/modifying alias */
+"This email is not valid" = "Aquest correu electrònic no és vàlid";
+
+/* when folder/label name is not valid. */
+"This name cannot be used because it contains an invalid sequence of characters." = "No es pot utilitzar aquest nom perquè conté una seqüència de caràcters no vàlida.";
+
+/* account deletion confirmation. %@ is the email. description in the dialog box. */
+"This will permanently delete the set up of the account \"%@\"." = "S'esborrarà la configuració del compte \"%@\" de forma permanent.";
+
+/* confirm alias deletion. %@ is the email. description in the dialog box. */
+"This will permanently remove the alias from this account." = "S'esborrarà l'àlies d'aquest compte de forma permanent.";
+
+/* when removing a folder from preferences, description in the dialog box */
+"This will permanently remove the folder from this account." = "S'esborrarà la carpeta d'aquest compte de forma permanent.";
+
+/* when removing a label from preferences, description in the dialog box */
+"This will permanently remove the label from this account." = "S'esborrarà l'etiqueta d'aquest compte de forma permanent.";
+
+/* HTML message when Growl was not installed. */
+"To show new email notifications, you should <a href=\"http://growl.info/\">install Growl</a>." = "Per mostrar notificacions de noves missatges, <a href=\"http://growl.info/\">instal·la Growl</a>.";
+
+/* folders prefs: folder mapping */
+"Trash Folder" = "Carpeta Paperera";
+
+/* advanced prefs */
+"Unified Inbox:" = "Safata unificada:";
+
+/* upgrade window: title of the window (lite version) */
+"Upgrade" = "Actualització";
+
+/* alias smtp choice assistant */
+"Use a custom SMTP for this alias" = "Ustilitza un SMTP personalitzat per aquest àlies";
+
+/* smtp assistant */
+"Use Authentication" = "Utilitza autenticació";
+
+/* advanced prefs */
+"Use Gmail shortcuts" = "Utilitza funcions ràpides de Gmail";
+
+/* general prefs */
+"Use Growl notifications" = "Utilitza notificacions de Growl";
+
+/* alias smtp choice assistant */
+"Use main SMTP of this account" = "Utilitza el SMTP principal per aquest compte";
+
+/* facebook wall: view button */
+"View" = "Veure";
+
+/* title of assistant window */
+"Welcome to Sparrow" = "Bienvingut/da a Sparrow";
+
+/* cloudapp prefs: when connected. %@ is the email/login for CloudApp */
+"You are connected to CloudApp as %@" = "Estàs connectat a CloudApp com a %@";
+
+/* dropbox prefs: when connected. When the email has not been fetched yet */
+"You are connected to Dropbox" = "Estàs connectat a Dropbox";
+
+/* dropbox prefs: when connected. %@ is the email/login for Dropbox */
+"You are connected to Dropbox as %@" = "Estàs connectat a Dropbox com a %@";
+
+/* tell user he is now connected to facebook */
+"You have enabled Facebook profile pictures with Sparrow." = "Has activat les imatges de perfil de Facebook amb Sparrow.";
+
+/* explain that opportunity is given to the user to disconnect from facebook */
+"You have enabled Facebook profile pictures with Sparrow. Click here to disable and stop seeing profile pictures." = "Has activat les imatges de perfil de Facebook amb Sparrow. Fés click aquí per desactivar aquesta funció i deixar de veure les imatges.";
+
+/* Assistant: error when no email has been entered.
+   error when no email has been entered. */
+"Your email has not been entered. Please enter your email address." = "No s'ha introduït el correu electrònic. Introdueix la teva adreça.";
+
+/* IMAP assistant: when no hostname has been entered. */
+"Your IMAP server name has not been entered. Please enter the name of the server." = "No s'ha introduït el nom de servidor IMAP. Introdueixlo, si us plau.";
+
+/* assistant, basic view */
+"Your Name:" = "El teu nom:";
+
+/* password not entered for receiving server. */
+"Your password for the receiving server has not been entered. Please enter the password." = "No s'ha introduït la contrasenya de recepció. Introdueix la contrasenya.";
+
+/* password not entered for sending server. */
+"Your password for the sending server has not been entered. Please enter the password." = "No s'ha introduït la contrasenya d'enviament. Introdueix la contrasenya.";
+
+/* Assistant: when the password has not been entered.
+   IMAP assistant: when no password has been entered.
+   password not entered (for non generic imap).
+   SMTP Assistant: when no password has been entered.
+   when the password has not been entered. */
+"Your password has not been entered. Please enter your account password." = "No s'ha introduït la contrasenya del compte. Introdueix-la, si us plau.";
+
+/* SMTP Assistant: when no hostname has been entered. */
+"Your SMTP server name has not been entered. Please enter the name of the server." = "No s'ha introduït el nom de servidor SMTP. Introdueix-lo, si us plau.";
+

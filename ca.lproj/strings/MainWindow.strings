@@ -1,0 +1,1355 @@
+/* when folder is not found. error message in case other case. description in the dialog box. %@ is the name of the folder. */
+"\"%@\" folder was not found and could not be created. This folder is required to get Sparrow to work properly." = "No s'ha trobat la carpeta \"%@\" ni s'ha pogut crear. Aquesta carpeta és necessària pel funcionament de Sparrow.";
+
+/* copy-paste content in case there is no sender: first %@ is the subject, second %@ is the URL */
+"%@ (%@)" = "%1$@ (%2$@)";
+
+/* folder name and unread count. %@ is the folder name. %u is the unread count.
+   label name and unread count. %@ is the folder name. %u is the unread count. */
+"%@ (%u)" = "%1$@ (%2$u)";
+
+/* copy-paste content: first %@ is the sender, second %@ is the subject */
+"%@: %@" = "%1$@: %2$@";
+
+/* copy-paste content: first %@ is the sender, second %@ is the subject, third %@ is the URL */
+"%@: %@ (%@)" = "%1$@: %2$@ (%3$@)";
+
+/* contents of growl notification when there are several messages to notify, %u is the number of new messages */
+"%u new messages" = "%u missatges nous";
+
+/* placeholder when the attachment has no name in the generated preview of the message */
+"(no name)" = "(sense nom)";
+
+/* in the message cell, when there is no recipient */
+"(No recipient)" = "(Sense destinatari)";
+
+/* growl notification: placeholder the message has no subject
+   placeholder for message with no subject for copy-paste content
+   placeholder for message with no subject in message cell
+   placeholder for the message when it has no subject. will be used for the filename
+   placeholder of the message in activity when it has no subject */
+"(no subject)" = "(sense assumpte)";
+
+/* when the preview is truncated in pasteboard */
+"\\U2026" = "…";
+
+/* error description. */
+"A message could not be retrieved. It must have disappeared. Please refresh." = "No s'ha pogut recuperar un missatge. Deu haver desaparegut. Actualitza la llista.";
+
+/* A new version is available. title of the dialog box. */
+"A new version of %@ is available" = "Hi ha una nova versió disponible de %@";
+
+/* error description (generic imap). */
+"A secure connection is not available on the mail server." = "No es disposa de connexió segura amb el servidor de correu.";
+
+/* fonts broken on the system. description of the dialog box. */
+"A system font is missing. Make sure to restore your default Mac OS X fonts." = "Falta un tipus de lletra del sistema. Assegurat de restaurar els tipus de lletra predeterminats de Mac OS X.";
+
+/* main menu */
+"About Sparrow" = "Quant a Sparrow";
+
+/* main menu */
+"Activity" = "Activitat";
+
+/* main menu */
+"Add Account" = "Afegeix compte";
+
+/* main menu */
+"Add Link\\U2026" = "Afegeix enllaç…";
+
+/* main menu */
+"Ads Disabled" = "Publicitat desactivada";
+
+/* main menu */
+"Align Left" = "Alinea a l'esquerra";
+
+/* main menu */
+"Align Right" = "Alinea a la dreta";
+
+/* search bar */
+"All" = "Tots";
+
+/* All Mail menu item (for gmail), in labels menu
+   All Mail menu item in popup menu, in labels menu
+   tooltip for All Mail */
+"All Mail" = "Tot el correu";
+
+/* error description. */
+"An unexpected error occurred on the server. Please retry later." = "S'ha produït un error inesperat al servidor. Torna-ho a provar més tard.";
+
+/* error description (for gmail). */
+"An unexpected error occurred when communicating with Gmail servers. Please report a bug." = "S'ha produït un error inesperat al connectar amb els servidors de Gmail. Informa'ns del bug siusplau.";
+
+/* error description (generic imap). */
+"An unexpected error occurred when communicating with the servers. Please report a bug." = "S'ha produït un error inesperat al connectar amb els servidors. Informa'ns del bug siusplau.";
+
+/* Description of the dialog box: Leopard double update message. */
+"Another update is needed.\nYou will be automatically redirected to the update panel." = "Es necessària una nova actualització.\nS'obrirà automàticament el panell d'actualitzacions.";
+
+/* search token */
+"ANY" = "QUALSEVOL";
+
+/* label of the archive toolbar button
+   main menu
+   tooltip of the archive toolbar button */
+"Archive" = "Arxiva";
+
+/* Archive and Label menu item
+   Archive and Label menu item (as title of the menu)
+   Archive and Label menu item (for gmail)
+   conversation list: menu item
+   main menu */
+"Archive and Label" = "Arxiva i etiqueta";
+
+/* Archive menu item (generic imap), in labels menu
+   Archive menu item in popup menu, in labels menu
+   tooltip for Archive category */
+"Archive-LocSidebar" = "Arxiva";
+
+/* when pressing on the empty spam button from spam bar, title */
+"Are you sure you want to erase the messages in the Spam?" = "Segur que vols esborrar els missatge de Spam?";
+
+/* when pressing on the empty trash button from trash bar, title */
+"Are you sure you want to permanently erase the messages in the Trash?" = "Segur que vols esborrar permanentement els missatges de la Papelera?";
+
+/* main menu */
+"Attach Files\\U2026" = "Adjunta arxius…";
+
+/* search term: message has attachment */
+"Attachment" = "Adjunt";
+
+/* search token */
+"ATTACHMENT" = "ADJUNT";
+
+/* Attachments of the message could not be downloaded. description in the dialog box. %@ is the subject of the message. */
+"Attachments of the message \"%@\" could not be downloaded. Please retry later." = "No s'han pogut descarregar els arxius adjunts del missatge “%@”. Torna-ho a provar més tard.";
+
+/* Attachments of the message with no subject could not be downloaded. description in the dialog box. */
+"Attachments of the message with no subject could not be downloaded. Please retry later." = "No s'han pogut descarregar els arxius adjunts del missatge sense assumpte. Torna-ho a provar més tard.";
+
+/* main menu */
+"Baseline" = "Linia base";
+
+/* main menu */
+"Bigger" = "Més gran";
+
+/* main menu */
+"Bold" = "Negreta";
+
+/* main menu */
+"Bring All to Front" = "Portar-ho tot a primer pla";
+
+/* main menu */
+"Bullet" = "Vinyeta";
+
+/* buy button label */
+"Buy Sparrow" = "Compra Sparrow";
+
+/* Cancel
+   when emptying the trash: Cancel button */
+"Cancel" = "Cancel·la";
+
+/* database could not be created. title of dialog box. */
+"Cannot create Message Database" = "No es pot crear la base de dades de missatges";
+
+/* main menu */
+"Capitalize" = "Converteix a majúscules";
+
+/* main menu */
+"Center" = "Centrar";
+
+/* main menu */
+"Check Document Now" = "Verifica el document ara";
+
+/* main menu */
+"Check for Updates\\U2026" = "Cerca actualitzacions…";
+
+/* main menu */
+"Check Grammar With Spelling" = "Verifica gramàtica amb l'ortografia";
+
+/* main menu */
+"Check Spelling While Typing" = "Verifica ortografia mentre s'escriu";
+
+/* syncing description progress */
+"Checking for mail\\U2026" = "Verificant correu…";
+
+/* main menu */
+"Close" = "Tanca";
+
+/* label of the compose toolbar button */
+"Compose" = "Redacta";
+
+/* main menu */
+"Compose New Message" = "Crea missatge nou";
+
+/* main menu */
+"Connection Checker\\U2026" = "Verificador de connexió...";
+
+/* Connection error. title of the dialog box. */
+"Connection error" = "Error de connexió";
+
+/* cloudapp prefs: error description. */
+"Connection to CloudApp could not be established. Either your connection is not available or the CloudApp server is unavailable. Please retry later." = "No s'ha pogut establir una connexió amb CloudApp. La teva connexión a Internet o el servidor de CloudApp no estan disponibles. Torna-ho a provar més tard.";
+
+/* cloudapp prefs: error description. */
+"Connection to CloudApp could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "No s'ha pogut establir una connexió amb CloudApp. L'ordinador no està connectat a Internet. Connecta l'equip a Internet i torna-ho a provar més tard.";
+
+/* cloudapp prefs: error description. */
+"Connection to Dropbox could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "No s'ha pogut establir una connexió amb Dropbox. L'ordinador no està connectat a Internet. Connecta l'equip a Internet i torna-ho a provar més tard.";
+
+/* error description (for gmail). */
+"Connection to Gmail could not be established. Either your connection is not available or Gmail is unavailable. Please retry later." = "No s'ha pogut establir una connexió amb Gmail. La teva connexió a Internet o el servidor de Gmail no estan disponibles. Torna-ho a provar més tard.";
+
+/* error description (for gmail). */
+"Connection to Gmail could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "No s'ha pogut establir una connexió amb Gmail. L'ordinador no està connectat a Internet. Connecta l'equip a Internet i torna-ho a provar més tard.";
+
+/* error description (for gmail). */
+"Connection to Gmail could not be established. Your email or your password is not correct. Please check you typed them properly and retry." = "No s'ha pogut establir una connexió amb Gmail. El correu electrònic o la contrasenya no són correctes. Verifica que estan ben escrits i torna-ho a provar.";
+
+/* error description (generic imap). */
+"Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please retry later." = "No s'ha pogut establir una connexió amb el servidor de correu. La teva connexión a Internet o el servidor de correu no estan disponibles. Torna-ho a provar més tard.";
+
+/* error description (generic imap). occurs in assistant. */
+"Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please try to untick Secure in the settings and try again." = "No s'ha pogut establir una connexió amb el servidor de correu. La teva connexió a Internet o el servidor de correu no estan disponibles. Desmarca l'opció de connexió segura a les opcions i torna-ho a provar.";
+
+/* error description (generic imap). */
+"Connection to the mail server could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "No s'ha pogut establir una connexió amb el servidor de correu. L'ordinador no està connectat a Internet. Connecta l'equip a Internet i torna-ho a provar més tard.";
+
+/* cloudapp prefs: error description. */
+"Connection to your account could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "No s'ha pogut establir una connexió amb el teu compte. L'ordinador no està connectat a Internet. Connecta l'equip a Internet i torna-ho a provar més tard.";
+
+/* cloudapp prefs: error description. */
+"Connection to your account could not be established. Your login or your password is not correct. Please check you typed them properly and retry." = "No s'ha pogut establir una connexió amb el teu compte. El nom d'inici de sessió o la contrasenya no són correctes. Verifica que estiguin ben escrites i torna-ho a provar.";
+
+/* cloudapp prefs: error description. */
+"Connection to your CloudApp account could not be established. Your login or your password is not correct. Please check you typed them properly and retry." = "No s'ha pogut establir una connexió amb el teu compte de CloudApp . El nom d'inici de sessió o la contrasenya no són correctes. Verifica que estiguin ben escrites i torna-ho a provar.";
+
+/* error description. */
+"Connection to your Dropbox account could not be established. Dropbox service is not available. Please, retry later." = "No s'ha pogut establir una connexió amb el teu compte de Dropbox. El servei de Dropbox no està disponible. Torna-ho a provar més tard.";
+
+/* cloudapp prefs: error description.
+   error description. */
+"Connection to your Dropbox account could not be established. Your login or your password is not correct. Please check you typed them properly and retry." = "No s'ha pogut establir una connexió amb el teu compte de Dropbox. El nom d'inici de sessió o la contrasenya no són correctes. Verifica que estiguin ben escrites i torna-ho a provar.";
+
+/* error description (generic imap). %@ is the email address. */
+"Connection to your mail account %@ could not be established. Your login or your password is not correct. Please check you typed them properly and retry." = "No s'ha pogut establir una connexió amb el teu compte de correo %@. El nom d'inici de sessió o la contrasenya no són correctes. Verifica que estiguin ben escrites i torna-ho a provar.";
+
+/* main menu */
+"Copy" = "Copia";
+
+/* main menu */
+"Copy Ruler" = "Copia regla";
+
+/* main menu */
+"Copy Style" = "Copia estil";
+
+/* main menu */
+"Correct Spelling Automatically" = "Corregeix ortografia automàticament";
+
+/* main menu */
+"Cut" = "Talla";
+
+/* search token */
+"DATE" = "DATA";
+
+/* search suggestions category */
+"Dates" = "Dates";
+
+/* main menu */
+"Decrease Indent Level" = "Disminueix nivell de sagnia";
+
+/* main menu */
+"Decrease Quote Level" = "Disminueix nivell de cita";
+
+/* main menu */
+"Default" = "Per defecte";
+
+/* label of the trash toolbar button
+   main menu
+   tooltip of the trash toolbar button */
+"Delete" = "Esborra";
+
+/* name of the folder in error message when the folder is not available */
+"Deleted Messages" = "Missatges esborrats";
+
+/* Messages are being sent while quitting. title of the dialog box. */
+"Do you want to quit now?" = "Vols sortir ara?";
+
+/* A new version is available. description in the dialog box. first %@ is the name of the application. second %@ is the version to update to. */
+"Do you want to update to %@ %@ using the Mac App Store? This is a free version update." = "Vols actualitzar a %1$@ %2$@ a través de la Mac App Store? És una actualització de versió gratuïta.";
+
+/* Don't Quit button when sending while quitting */
+"Don't Quit" = "No sortir";
+
+/* Attachments of the message could not be downloaded. Title of the dialog box.
+   The attachment could not be downloaded. title of the dialog box. */
+"Download failed" = "Error de descàrrega";
+
+/* Download latest version button when sparrow expired in the dialog */
+"Download latest version" = "Descarregar la versió més recent";
+
+/* syncing description progress, when progress value is available, first %u is the progress value, second %u is the maximum progress */
+"Downloading %u of %u" = "Descarregant %1$u de %2$u";
+
+/* Draft message indication
+   search term */
+"Draft" = "Esborrany";
+
+/* main menu
+   name of the folder in error message when the folder is not available
+   tooltip for Drafts */
+"Drafts" = "Esborranys";
+
+/* main menu */
+"Edit" = "Edició";
+
+/* spam bar empty button
+   trash bar empty button */
+"Empty" = "Buida";
+
+/* when emptying the spam folder: Empty button */
+"Empty Spam" = "Buida Spam";
+
+/* when emptying the trash: Empty button */
+"Empty Trash" = "Buida Papelera";
+
+/* main menu */
+"Enter Full Screen" = "Pantalla completa";
+
+/* search suggestion menu */
+"Entire message" = "Tot el missatge";
+
+/* error description (generic imap). */
+"Exceeded bandwidth limit. Please contact your provider." = "S'ha superat el límit d'ample de banda. Posa't en contacte amb el proveïdor.";
+
+/* error description. %@ is the URL to open. (for gmail) */
+"Exceeded bandwidth limit. Please try to unlock your account using the following webpage: %@" = "S'ha superat el límit d'ample de banda. Intenta desbloquejar el compte a la següents pàgina web: %@";
+
+/* main menu */
+"Exit Full Screen" = "Surt de pantalla completa";
+
+/* main menu */
+"Extended Sidebar" = "Barra lateral ampliada";
+
+/* main menu */
+"File" = "Arxiu";
+
+/* main menu */
+"Find" = "Cerca";
+
+/* main menu */
+"Find Next" = "Cerca següent";
+
+/* main menu */
+"Find Previous" = "Cerca anterior";
+
+/* main menu */
+"Find\\U2026" = "Cerca…";
+
+/* search suggestion menu */
+"Folder" = "Carpeta";
+
+/* search token */
+"FOLDER" = "CARPETA";
+
+/* when folder is not found. title of the dialog box. */
+"Folder not found" = "Carpeta no trobada";
+
+/* search suggestion category
+   tooltip for Folders section in sidebar */
+"Folders" = "Carpetes";
+
+/* main menu */
+"Font" = "Tipus de lletra";
+
+/* main menu */
+"Format" = "Format";
+
+/* conversation list: menu item
+   main menu
+   menu item for reply toolbar button */
+"Forward" = "Reenvia";
+
+/* search token: completion string */
+"friday" = "divendres";
+
+/* search term */
+"Friday" = "Divendres";
+
+/* search bar
+   search suggestion menu */
+"From" = "De";
+
+/* search token */
+"FROM" = "DE";
+
+/* search token prefix */
+"from:" = "de:";
+
+/* pop activity */
+"getting message content" = "obtenint contingut del missatge";
+
+/* pop activity */
+"getting message content %i/%i" = "obtenint contingut del missatge %1$i/%2$i";
+
+/* pop activity */
+"getting message header %i/%i" = "obtenint capçalera del missatge %1$i/%2$i";
+
+/* pop activity */
+"getting message list" = "obtenint la llista de missatges";
+
+/* displayed in mesage list: Getting messages */
+"Getting messages" = "Obtenint missatges";
+
+/* main menu */
+"Go to Next Message" = "Vés al missatges següent";
+
+/* main menu */
+"Go to Previous Message" = "Vés al missatge anterior";
+
+/* search token: prefix in case of attachment */
+"HAS" = "TÉ";
+
+/* search token: completion string */
+"has:attachment, attachment, filename" = "has:attachment, attachment, filename, té:adjunt, adjunt, arxiu adjunt, nom d'arxiu";
+
+/* main menu */
+"Help" = "Ajuda";
+
+/* main menu */
+"Hide Others" = "Amaga altres";
+
+/* main menu */
+"Hide Sparrow" = "Amaga Sparrow";
+
+/* A new version is available. Ignore button. */
+"Ignore" = "Ignora";
+
+/* error description (for gmail). */
+"IMAP is not enabled. Please check your settings on Gmail Web." = "IMAP no està activat. Verifica les opcions a Gmail Web.";
+
+/* error description (for gmail). */
+"IMAP is not enabled. Please contact your provider." = "IMAP no està actiu. Posa't en contacte amb el teu proveïdor.";
+
+/* Important menu item for priority inbox
+   search term */
+"Important" = "Important";
+
+/* displayed in mesage list: Importing */
+"Importing" = "Importació";
+
+/* when importing. %@ is the email that is being imported. */
+"Importing %@\\U2026" = "Important %@…";
+
+/* import description */
+"Importing data from previous version of Sparrow.\nPlease wait while import is in progress\\U2026" = "Important dades d'una versió anterior de Sparrow.\nEspera mentre es realitza la importació…";
+
+/* importing: title of the window */
+"Importing Mails" = "Important missatges";
+
+/* search token: completion, folder: ignored search prefix */
+"in:" = "in:, a:";
+
+/* search token: completion string */
+"in:inbox, inbox" = "in:inbox, inbox, a:safata d'entrada, a:entrada, entrada";
+
+/* inbox selection bar: Inbox
+   main menu
+   name of the folder in error message when the folder is not available
+   search term
+   tooltip for Inbox */
+"Inbox" = "Safata d'entrada";
+
+/* displayed in message list: No conversations in inbox */
+"Inbox Zero" = "Safata d'entrada Zero";
+
+/* main menu */
+"Increase Indent Level" = "Augmenta nivell de sagnia";
+
+/* main menu */
+"Increase Quote Level" = "Augmenta nivell de cita";
+
+/* main menu */
+"Indentation" = "Sagnia";
+
+/* error description (for gmail). */
+"Information could not be saved to Gmail. Please retry later." = "No s'ha pogut desar la informació a Gmail. Torna-ho a provar més tard.";
+
+/* error description (generic imap). */
+"Information could not be saved to the mail server. Please retry later." = "No s'ha pogut desar la informació al servidor de correu. Torna-ho a provar més tard.";
+
+/* installation corrupted: title of the dialog box. */
+"Install is corrupted" = "La instal·lació està danyada";
+
+/* search token: completion string */
+"is:draft, is:drafts, in:drafts, in:drafts, drafts" = "is:draft, is:drafts, in:draft, in:drafts, drafts, és:esborranys, a:esborranys, esborranys, esborrany";
+
+/* search token: completion string */
+"is:important, in:important, priority inbox, important" = "is:important, in:important, priority inbox, important, és:important, a:important, prioritari, important";
+
+/* search token: completion string */
+"is:read, read" = "is:read, read, és:llegit, llegit";
+
+/* search token: completion string */
+"is:sent, in:sent, sent" = "is:sent, in:sent, sent, és:enviat, a:enviats, enviat";
+
+/* search token: completion string */
+"is:spam, in:spam, spam, junk" = "is:spam, in:spam, spam, és:spam, a:spam, no desitjat, escombraries";
+
+/* search token: completion string */
+"is:starred, in:starred, star, starred, favorite, favorites, flag, flagged" = "is:starred, in:starred, star, starred, favorite, favorites, flag, flagged, és:estrella, a:estrella, estrella, marcat amb estrella, favorit, favorits, marcat, destacat";
+
+/* search token: completion string */
+"is:trash, in:trash, trash, bin, deleted" = "is:trash, in:trash, trash, bin, deleted, és:paperera, a:paperera, esborrat, paperera, eliminat";
+
+/* search token: completion string */
+"is:unread, unread, not read" = "is:unread, unread, not read, és:no llegit, no llegit, sense llegir";
+
+/* main menu */
+"Italic" = "Cursiva";
+
+/* main menu */
+"Jump to Selection" = "Vés a la selecció";
+
+/* main menu */
+"Justify" = "Justifica";
+
+/* main menu */
+"Kern" = "Interlletratge";
+
+/* conversation list: menu item
+   main menu */
+"Label" = "Etiqueta";
+
+/* search token */
+"LABEL" = "ETIQUETA";
+
+/* label of the label button
+   Labels menu item (as title of the menu)
+   main menu
+   search suggestion category
+   tooltip for Labels section in sidebar
+   tooltip of the label button */
+"Labels" = "Etiquetes";
+
+/* search token: completion string */
+"last month" = "el mes passat";
+
+/* search term */
+"Last Month" = "El mes passat";
+
+/* search term */
+"Last Week" = "La setmana passada";
+
+/* search token: completion string */
+"last week" = "la setmana passada";
+
+/* search term */
+"Last Year" = "L'any passat";
+
+/* search token: completion string */
+"last year" = "l'any passat";
+
+/* main menu */
+"Left to Right" = "D'esquerra a dreta";
+
+/* license is granted. title of the dialog box. */
+"License added" = "S'ha afegit una llicència";
+
+/* main menu */
+"License\\U2026" = "Llicència...";
+
+/* main menu */
+"Ligature" = "Lligadura";
+
+/* main menu */
+"List" = "Llista";
+
+/* displayed in mesage list: Loading */
+"Loading" = "Carregant";
+
+/* main menu */
+"Log Message" = "Registra missatge";
+
+/* main menu */
+"Log Protocol" = "Registra protocol";
+
+/* main menu */
+"Lower" = "Baixa";
+
+/* main menu */
+"Make Lower Case" = "Tot en minúscules";
+
+/* main menu */
+"Make Upper Case" = "Tot en majúscules";
+
+/* conversation list: menu item
+   main menu
+   Mark as Important menu item for priority inbox. */
+"Mark as Important" = "Marca com important";
+
+/* conversation list: menu item
+   Mark as Read menu item */
+"Mark as Read" = "Marca com llegit";
+
+/* conversation list: menu item
+   main menu
+   Mark as Spam menu item */
+"Mark as Spam" = "Marca com spam";
+
+/* conversation list: menu item
+   main menu
+   Mark as Starred menu item */
+"Mark as Starred" = "Marca amb estrella";
+
+/* conversation list: menu item
+   main menu
+   Mark as Unread menu item */
+"Mark as Unread" = "Marca com no llegit";
+
+/* main menu */
+"Message" = "Missatge";
+
+/* Search suggestions */
+"Message contains \"%@\"" = "El missatge conté \"%@\"";
+
+/* Message could not be sent. title of the dialog. */
+"Message could not be sent" = "No s'ha pogut enviar el missatge";
+
+/* search term */
+"Message has Attachment" = "El missatge té un arxiu adjunt";
+
+/* search term */
+"Message in Trash" = "Missatge a la paperera";
+
+/* search term */
+"Message is Draft" = "El missatge és un esborrany";
+
+/* search term */
+"Message is Important" = "El missatge és important";
+
+/* search term */
+"Message is Read" = "Missatge llegit";
+
+/* search term */
+"Message is Sent" = "Mensaje enviado";
+
+/* search term */
+"Message is Spam" = "El missatge és spam";
+
+/* search term */
+"Message is Starred" = "Missatge amb estrella";
+
+/* search term */
+"Message is Unread" = "Missatge no llegit";
+
+/* account needed to open a compose window. title of the dialog box. */
+"Message not found" = "No es troba el missatge";
+
+/* main menu */
+"Message Panel" = "Panell de missatge";
+
+/* Messages are being sent while quitting. description in the dialog box. */
+"Messages are being sent. If you quit now, this will cancel the progress. Messages will be kept as drafts." = "S'estan enviant missatges. Si surts ara, es cancel·larà el procés i els missatges es desaran com esborranys.";
+
+/* main menu */
+"Minimize" = "Minimitza";
+
+/* search term */
+"Monday" = "Dilluns";
+
+/* search token: completion string */
+"monday" = "dilluns";
+
+/* Move To menu item
+   Move To menu item (as title of the menu)
+   Move To menu item (generic imap) */
+"Move To" = "Trasllada a";
+
+/* conversation list: menu item
+   main menu */
+"Move to Inbox" = "Trasllada a la safata d'entrada";
+
+/* error description. */
+"Namespace is not available." = "L'espai de noms no està disponible.";
+
+/* status bar text: when no sync has occurred for the selected folder. */
+"Never updated" = "No s'ha actualizat mai";
+
+/* main menu */
+"New Message" = "Missatge nou";
+
+/* tooltip of the compose toolbar button */
+"New message" = "Missatge nou";
+
+/* name of the growl notification of Sparrow for the preferences of Growl in the prefs panel */
+"New Message Notification" = "Notificació de missatge nou";
+
+/* displayed in message list: No conversations */
+"No conversations" = "Cap conversa";
+
+/* in labels list menu */
+"No folders" = "Cap carpeta";
+
+/* in labels list menu */
+"No labels" = "Cap etiqueta";
+
+/* No Twitter accounts alert view title */
+"No Twitter accounts" = "Cap compte de Twitter";
+
+/* main menu */
+"None" = "Cap";
+
+/* conversation list: menu item
+   Not Important menu item for priority inbox. */
+"Not Important" = "No important";
+
+/* conversation list: menu item
+   Not Spam menu item */
+"Not Spam" = "No és spam";
+
+/* main menu */
+"Numbered" = "Llista numerada";
+
+/* main menu */
+"Open Message" = "Obre missatge";
+
+/* main menu */
+"Page Setup\\U2026" = "Ajusta pàgina…";
+
+/* main menu */
+"Paragraph" = "Paràgraf";
+
+/* main menu */
+"Paste" = "Enganxa";
+
+/* main menu */
+"Paste and Match Style" = "Enganxa amb el mateix estil";
+
+/* main menu */
+"Paste Ruler" = "Enganxa regla";
+
+/* main menu */
+"Paste Style" = "Enganxa estil";
+
+/* Pending for send message indication */
+"Pending" = "Pendent";
+
+/* search token */
+"PEOPLE" = "GENT";
+
+/* Search suggestions category */
+"People" = "Gent";
+
+/* invalidate license: description in the dialog box. */
+"Please buy a valid license." = "Obté una llicència vàlida.";
+
+/* sparrow is already running. description of dialog box. */
+"Please quit the other instance of Sparrow." = "Tanca l'altra instància de Sparrow.";
+
+/* main menu */
+"Prefer Plain Text" = "Prefereixo text sense format";
+
+/* Preferences button in dialog box
+   Preferences button in error dialog in case of login error */
+"Preferences" = "Configuració";
+
+/* main menu */
+"Preferences\\U2026" = "Configuració…";
+
+/* main menu */
+"Print\\U2026" = "Imprimeix…";
+
+/* tooltip for Priority */
+"Priority" = "Important";
+
+/* inbox selection bar: Priority Inbox */
+"Priority Inbox" = "Safata d'entrada important";
+
+/* Push mail is not available. */
+"Push mail is not available." = "La notificació de correu no està disponible.";
+
+/* main menu */
+"Quick Reply" = "Resposta ràpida";
+
+/* main menu */
+"Quick Reply All" = "Resposta ràpida a tothom";
+
+/* Quit button when sparrow expired in the dialog */
+"Quit" = "Surt";
+
+/* main menu */
+"Quit Sparrow" = "Surt de Sparrow";
+
+/* Quit without Sending button when sending while quitting */
+"Quit without Sending" = "Surt sense enviar";
+
+/* main menu */
+"Raise" = "Puja";
+
+/* search term */
+"Read" = "Llegit";
+
+/* main menu */
+"Redo" = "Refés";
+
+/* main menu
+   Refresh button in dialog box */
+"Refresh" = "Actualitza";
+
+/* A new version is available. Remind me later button */
+"Remind me later" = "Recorda'm-ho més tard";
+
+/* main menu */
+"Remove Formatting" = "Esborra format";
+
+/* conversation list: menu item
+   Remove Star menu item */
+"Remove Star" = "Esborra estrella";
+
+/* conversation list: menu item
+   label of the reply toolbar button
+   main menu
+   menu item for reply toolbar button
+   tooltip of the reply toolbar button */
+"Reply" = "Respon";
+
+/* conversation list: menu item
+   main menu
+   menu item for reply toolbar button */
+"Reply All" = "Respon a tothom";
+
+/* main menu */
+"Restore" = "Restaura";
+
+/* conversation list: menu item */
+"Restore from Trash" = "Restaura de la paperera";
+
+/* main menu */
+"Right to Left" = "De dreta a esquerra";
+
+/* search token: completion string */
+"saturday" = "dissabte";
+
+/* search term */
+"Saturday" = "Dissabte";
+
+/* conversation list: menu item
+   main menu */
+"Save All Attachments" = "Desa tots els arxius adjunts";
+
+/* conversation list: menu item */
+"Save Attachment" = "Desa arxiu adjunt";
+
+/* conversation list: menu item */
+"Save Attachment As\\U2026" = "Desa arxiu adjunt com…";
+
+/* main menu */
+"Save Draft" = "Desa esborrany";
+
+/* saving attachment progress description, %@ is the filename of the attachment. */
+"Saving %@" = "Desant %@";
+
+/* main menu
+   tooltip for Search */
+"Search" = "Cerca";
+
+/* main menu */
+"Search Messages" = "Cerca als missatges";
+
+/* displayed in mesage list: Searching */
+"Searching" = "Cercant";
+
+/* error description (for gmail). */
+"Secure connection is not currently available on Gmail. Please retry later." = "Actualment no es disposa d'una connexió segura a Gmail. Torna-ho a provar més tard.";
+
+/* main menu */
+"Select All" = "Selecciona tot";
+
+/* main menu */
+"Select Labels/Folders" = "Selecciona etiquetes/carpetes";
+
+/* main menu */
+"Select Next Account" = "Selecciona compte següent";
+
+/* main menu */
+"Select Previous Account" = "Selecciona compte anterior";
+
+/* main menu */
+"Selection" = "Selecció";
+
+/* main menu */
+"Send and Archive" = "Envia i arxiva";
+
+/* main menu */
+"Send Message" = "Envia missatge";
+
+/* sending progress description, %@ is the subject of the message
+   sending progress description, parameter is the subject of the message */
+"Sending %@" = "Enviant %@";
+
+/* search term
+   tooltip for Sent Messages */
+"Sent" = "Enviat";
+
+/* main menu */
+"Sent Mail" = "Missatges enviats";
+
+/* name of the folder in error message when the folder is not available */
+"Sent Messages" = "Missatges enviats";
+
+/* main menu */
+"Services" = "Serveis";
+
+/* account needed to open a compose window. title of the dialog box.
+   account needed to open a compose window. title the dialog box.
+   Title of the error dialog, when applescript is used and no account is available. */
+"Set up one account" = "Configura un compte";
+
+/* Button title to jump to Settings.app */
+"Settings" = "Preferències";
+
+/* main menu */
+"Show All" = "Mostra-ho tot";
+
+/* main menu */
+"Show Colors" = "Mostra colors";
+
+/* main menu */
+"Show Data Folder" = "Veure carpeta de dades";
+
+/* main menu */
+"Show Fonts" = "Mostra tipus de lletra";
+
+/* main menu */
+"Show Format Bar" = "Mostra barra de format";
+
+/* main menu */
+"Show Log Folder" = "Veure carpeta de registre";
+
+/* main menu */
+"Show Ruler" = "Mostra regla";
+
+/* main menu */
+"Show Spelling And Grammar" = "Mostra ortografia i gramàtica";
+
+/* main menu */
+"Show Substitutions" = "Mostra substitucions";
+
+/* main menu */
+"Sidebar" = "Barra lateral";
+
+/* main menu */
+"Smaller" = "Més petit";
+
+/* main menu */
+"Smart Copy/Paste" = "Copiat/enganxat intel·ligent";
+
+/* main menu */
+"Smart Dashes" = "Guions intel·ligents";
+
+/* main menu */
+"Smart Links" = "Enllaços intel·ligents";
+
+/* main menu */
+"Smart Quotes" = "Cometes tipogràfiques";
+
+/* search term
+   spam bar label
+   Spam menu item in popup menu, in labels menu
+   Spam menu item, in labels menu
+   tooltip for Spam */
+"Spam" = "Spam";
+
+/* main menu */
+"Sparrow" = "Sparrow";
+
+/* main menu */
+"Sparrow Help" = "Ajuda de Sparrow";
+
+/* Sparrow is already running. title of dialog box. */
+"Sparrow is already running" = "Sparrow ja està obert.";
+
+/* error description (for gmail). */
+"Sparrow is trying to connect to a server that is pretending to be Gmail server." = "Sparrow està intentant connectar-se a un servidor que aparenta ser el servidor de Gmail.";
+
+/* error description (generic imap). */
+"Sparrow is trying to connect to a server that is pretending to the mail server." = "Sparrow està intentant connectar-se a un servidor que aparenta ser el servidor de correu.";
+
+/* main menu */
+"Speech" = "Parla";
+
+/* main menu */
+"Spelling and Grammar" = "Ortografia i gramàtica";
+
+/* main menu
+   name of the folder in error message when the folder is not available
+   search term
+   tooltip for Starred */
+"Starred" = "Amb estrella";
+
+/* main menu */
+"Start Speaking" = "Inicia locució";
+
+/* search token */
+"STATUS" = "ESTAT";
+
+/* search suggestion category */
+"Status" = "Estat";
+
+/* label in special cell in message list. */
+"Still searching\\U2026" = "Cercant…";
+
+/* main menu */
+"Stop Speaking" = "Atura locució";
+
+/* search token */
+"SUBJECT" = "ASSUMPTE";
+
+/* search bar
+   search suggestion menu */
+"Subject" = "Assumpte";
+
+/* Search suggestions */
+"Subject contains \"%@\"" = "L'assumpte conté \"%@\"";
+
+/* search token prefix */
+"subject:" = "subject:";
+
+/* search suggestions category */
+"Subjects" = "Assumptes";
+
+/* main menu */
+"Subscript" = "Subíndex";
+
+/* main menu */
+"Substitutions" = "Substitucions";
+
+/* search token: completion string */
+"sunday" = "diumenge";
+
+/* search term */
+"Sunday" = "Diumenge";
+
+/* main menu */
+"Superscript" = "Superíndex";
+
+/* error description */
+"Synchronization failed. Please, retry later." = "Error de sincronització. Si us plau, torna-ho a provar més tard.";
+
+/* label in special cell in message list. */
+"Synchronization is not finished. Search results may be incomplete." = "La sincronització no ha finalitzat. És possible que els resultats de cerca siguin incomplets.";
+
+/* error description. %@ is the mail of the account. */
+"Synchronization of %@ failed. Please, retry later." = "La sincronització de %@ ha fallat. Si us plau, torna-ho a provar més tard.";
+
+/* fonts broken on the system. title of the dialog box. */
+"System font is missing" = "Falta un tipus de lletra del sistema";
+
+/* main menu */
+"Text" = "Text";
+
+/* main menu */
+"Text Replacement" = "Substitueix text";
+
+/* when folder is not found. error message in case of gmail. description in the dialog box. %@ is the name of the folder. */
+"The \"%@\" folder cannot be synced properly. Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly." = "La carpeta “%@” no es pot sincronitzar correctament. Activa totes les carpetes a les opcions de Gmail (http://www.sparrowmailapp.com/faq-gmaillabels) perquè Sparrow funcioni correctament.";
+
+/* The attachment could not be downloaded. description in the dialog box. %@ is the filename of the attachment. */
+"The attachment \"%@\" could not be downloaded. Please retry later." = "No s'ha pogut descarregar l'arxiu adjunt “%@”. Torna-ho a provar més tard.";
+
+/* The attachment could not be downloaded. no filename is available for the attachment. description in the dialog box. */
+"The attachment could not be downloaded. Please retry later." = "No s'ha pogut descarregar l'arxiu adjunt. Torna-ho a provar més tard.";
+
+/* error when a folder creation failed, title of the dialog */
+"The folder could not be created" = "No s'ha pogut crear la carpeta";
+
+/* error description. */
+"The folder could not be created. The name might not be valid." = "No s'ha pogut crear la carpeta. És possible que el nom no sigui vàlid.";
+
+/* error when a folder deletion failed, title of the dialog */
+"The folder could not be deleted" = "No s'ha pogut esborrar la carpeta";
+
+/* error description. */
+"The folder could not be deleted." = "No s'ha pogut esborrar la carpeta.";
+
+/* error when a label creation failed, title of the dialog */
+"The label could not be created" = "No s'ha pogut crear l'etiqueta";
+
+/* error description. */
+"The label could not be created. The name might not be valid." = "No s'ha pogut crear l'etiqueta. És possible que el nom no sigui vàlid.";
+
+/* error when a label deletion failed, title of the dialog */
+"The label could not be deleted" = "No s'ha pogut esborrar l'etiqueta";
+
+/* error description. */
+"The label could not be deleted." = "No s'ha pogut esborrar l'etiqueta.";
+
+/* error description. %@ is the subject of the email. */
+"The message \"%@\" could not be sent. It contains attachments that are not allowed." = "No s'ha pogut enviar el missatge “%@”. Conté arxius adjunts no permesos.";
+
+/* The message could not be sent. description in the dialog. %@ is the subject of the message */
+"The message \"%@\" could not be sent. Please retry later." = "No s'ha pogut enviar el missatge “%@”. Torna-ho a provar més tard.";
+
+/* error description. %@ is the subject of the email. */
+"The message \"%@\" could not be sent. The alias is probably wrong or the recipient is not allowed." = "No s'ha pogut enviar el missatge “%@”. És possible que l'àlies sigui incorrecte o que no es permiti el destinatari.";
+
+/* error description. %@ is the subject of the message, first %i is the error code, second %i is the smtp error code, %@ is a non-localized description sent by the server. */
+"The message \"%@\" could not be sent. Unexpected error (%i/%i/%@)." = "No s'ha pogut enviar el missatge “%1$@”. Error inesperat (%2$i/%3$i/%4$@).";
+
+/* error description. %@ is the subject of the email. */
+"The message cannot be saved to Drafts. The attachments of the message \"%@\" are probably too large." = "El missatge no es pot desar a Esborranys. És probable que els adjunts del missatge \"%@\" siguin massa grans.";
+
+/* error description. */
+"The message cannot be saved to Drafts. The attachments of the message are probably too large." = "El missatge no es pot desar a Esborranys. És probable que els adjunts del missatge siguin massa grans.";
+
+/* error description for message without subject. */
+"The message cannot be saved to Drafts. The attachments of the message with no subject are probably too large." = "El missatge no es pot desar a Esborranys. És probable que els adjunts del missatge sense assumpte siguin massa grans.";
+
+/* error description. */
+"The message could not be moved to Trash. Please retry later." = "No s'ha pogut enviar el missatge a la Paperera. Torna-ho a provar més tard.";
+
+/* error description (for gmail). */
+"The message could not be saved to Drafts. Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly." = "No s'ha pogut desar el missatge a Esborranys. Activa totes les carpetes a les opcions de Gmail (http://www.sparrowmailapp.com/faq-gmaillabels) per què Sparrow funcioni correctament.";
+
+/* error description (generic imap). */
+"The message could not be saved to Drafts. This mailbox was not found and could not be created." = "No s'ha pogut desar el missatge a Esborranys. No s'ha trobat aquesta safata, ni s'ha pogut crear.";
+
+/* error description. */
+"The message could not be sent." = "No s'ha pogut enviar el missatge.";
+
+/* error description for email without subject.
+   error description. */
+"The message could not be sent. It contains attachments that are not allowed." = "No s'ha pogut enviar el missatge. Conté arxius adjunts no permesos.";
+
+/* error description. */
+"The message could not be sent. Please retry later." = "No s'ha pogut enviar el missatge. Torna-ho a provar més tard.";
+
+/* error description for email without subject.
+   error description. */
+"The message could not be sent. The alias is probably wrong or the recipient is not allowed." = "No s'ha pogut enviar el missatge. És possible que l'àlies sigui incorrecte o que no es permeti el destinatari.";
+
+/* error description. %@ is the subject of the email. */
+"The message could not be sent. The attachments of the message \"%@\" are probably too large." = "No s'ha pogut enviar el missatge. És probable que els adjunts del missatge \"%@\" siguin massa grans.";
+
+/* error description. */
+"The message could not be sent. The attachments of the message are probably too large." = "No s'ha pogut enviar el missatge. És probable que els adjunts del missatge siguin massa grans.";
+
+/* error description for email without subject. */
+"The message could not be sent. The attachments of the message with no subject are probably too large." = "No s'ha pogut enviar el missatge. És probable que els adjunts del missatge sense assumpte siguin massa grans.";
+
+/* error description. first %i is the error code, second %i is the smtp error code, %@ is a non-localized description sent by the server. */
+"The message could not be sent. Unexpected error (%i/%i/%@)." = "No s'ha pogut enviar el missatge. Error inesperat (%1$i/%2$i/%3$@).";
+
+/* database could not be created. description of dialog box. */
+"The message database cannot be found or created, and is required. The default location for this folder is in Library > Application Folder > Sparrow." = "No es troba o no es pot crear la base de dades de missatges necessària. La ubicació per defecte d'aquesta carpeta és Llibreria > Application Support > Sparrow.";
+
+/* The message with no subject could not be sent. description in the dialog. */
+"The message with no subject could not be sent. Please retry later." = "No s'ha pogut enviar el missatge sense assumpte. Torna-ho a provar més tard.";
+
+/* when a message is opened using a URL. %@ is the URL */
+"The message with the URL %@ could not be found." = "No es troba el missatge amb la URL %@.";
+
+/* error when a folder rename failed, title of the dialog */
+"The name of the folder could not be changed" = "No s'ha pogut modificar el nom de la carpeta";
+
+/* error when a label rename failed, title of the dialog */
+"The name of the label could not be changed" = "No s'ha pogut modificar el nom de l'etiqueta";
+
+/* error description. */
+"The name of this folder could not be changed. The name might not be valid." = "No s'ha pogut modificar el nom d'aquesta carpeta. És possible que el nom no sigui vàlid.";
+
+/* error description. */
+"The name of this label could not be changed. The name might not be valid." = "No s'ha pogut modificar el nom d'aquesta etiqueta. És possible que el nom no sigui vàlid.";
+
+/* generic error on folder, title of the dialog
+   generic error on label, title of the dialog */
+"The operation could not be performed" = "No s'ha pogut realitzar l'operació";
+
+/* error description. */
+"The sent message could not be saved to \"Sent Messages\"." = "El missatge enviat no s'ha pogut desar a \"Missatges enviats\".";
+
+/* No Twitter accounts alert view message */
+"There are no Twitter accounts configured. You can add or create a Twitter account in Settings" = "No s'ha configurat cap compte de Twitter. Pots afegir o crear un compte de Twitter a Opcions";
+
+/* When CloudApp file size limit is reached. */
+"This file is too large to be uploaded to CloudApp." = "Aquest arxiu és massa gran per carregar-se a CloudApp.";
+
+/* error description. */
+"This folder could not be opened. Please retry later." = "No s'ha pogut obrir aquesta carpeta. Torna-ho a provar més tard.";
+
+/* license is granted. %@ is the name. description in the dialog box. */
+"This license is granted to %@" = "Aquesta llicència s'ha concedit a %@";
+
+/* license is granted. first %@ is the name. second %@ is the email. description in the dialog box. */
+"This license is granted to %@ <%@>" = "Aquesta llicència s'ha concedit a %1$@ <%2$@>";
+
+/* invalid license: title of the dialog box. */
+"This license is not valid" = "Aquesta llicència no és vàlida";
+
+/* message cell: when the message has no text content */
+"This message has no content." = "Aquest missatge no té contingut.";
+
+/* search token: completion string */
+"this month" = "aquest mes";
+
+/* search term */
+"This Month" = "Aquest mes";
+
+/* sparrow expired. title of dialog box. */
+"This version expired" = "Aquesta versió ha caducat";
+
+/* Title of the dialog box: Leopard double update message. */
+"This version is not compatible with Leopard" = "Aquesta versió no és compatible amb Leopard";
+
+/* sparrow expired. description of dialog box. */
+"This version of Sparrow has expired. Please download the latest version." = "Aquesta versió de Sparrow ha caducat. Descarrega una versió més recent.";
+
+/* search term */
+"This Week" = "Aquesta setmana";
+
+/* search token: completion string */
+"this week" = "aquesta setmana";
+
+/* search term */
+"This Year" = "Aquest any";
+
+/* search token: completion string */
+"this year" = "aquest any";
+
+/* search token: completion string */
+"thursday" = "dijous";
+
+/* search term */
+"Thursday" = "Dijous";
+
+/* search token */
+"TO" = "A";
+
+/* message cell: in sent mailbox, before recipient
+   search bar
+   search suggestion menu */
+"To" = "Per";
+
+/* search token prefix */
+"to:" = "per:";
+
+/* search token: completion string */
+"today" = "avui";
+
+/* search term */
+"Today" = "Avui";
+
+/* error description. %@ is the email of the account. */
+"Too many simultaneous connections to %@." = "Massa connexions simultànies a %@.";
+
+/* error description. */
+"Too many simultaneous connections your account." = "Massa connexions simultànies al teu compte.";
+
+/* main menu */
+"Transformations" = "Transformacions";
+
+/* main menu
+   name of the folder in error message when the folder is not available
+   search term
+   tooltip for Trash
+   trash bar label */
+"Trash" = "Paperera";
+
+/* search term */
+"Tuesday" = "Dimarts";
+
+/* search token: completion string */
+"tuesday" = "dimarts";
+
+/* main menu */
+"Underline" = "Subratllar";
+
+/* main menu */
+"Undo" = "Desfés";
+
+/* Unexpected error %@ is the error domain. %i is the error code. */
+"Unexpected error (%@/%i)" = "Error inesperat (%1$@/%2$i)";
+
+/* Unexpected error when connecting to CloudApp */
+"Unexpected error while connecting to CloudApp servers." = "S'ha produït un error inesperar al connectar amb els servidors de CloudApp.";
+
+/* tooltip: Unified Inbox */
+"Unified Inbox" = "Safata d'entrada unificada";
+
+/* buy text */
+"Unlock all Sparrow's features now" = "Desbloqueja totes les opcions de Sparrow ara";
+
+/* inbox selection bar: Unread
+   search term
+   tooltip for Unread */
+"Unread" = "No llegit";
+
+/* default name of the saved file if the attachment has no filename.
+   when attachment has no filename, name used for the progress */
+"Untitled" = "Sense títol";
+
+/* A new version is available. Update button */
+"Update" = "Actualitza";
+
+/* status bar text: %@ is the last sync date */
+"Updated on %@" = "Actualizat el %@";
+
+/* main menu */
+"Use All" = "Totes";
+
+/* main menu */
+"Use Default" = "Valor per defecte";
+
+/* main menu */
+"Use Loosen" = "Augmenta";
+
+/* main menu */
+"Use None" = "No utilitzar";
+
+/* main menu */
+"Use Selection for Find" = "Utilitza selecció per cercar";
+
+/* main menu */
+"Use Tighten" = "Redueix";
+
+/* search term */
+"Wednesday" = "Dimecres";
+
+/* search token: completion string */
+"wednesday" = "dimecres";
+
+/* main menu */
+"Window" = "Finestra";
+
+/* main menu */
+"Writing Direction" = "Sentit de l'escriptura";
+
+/* search term */
+"Yesterday" = "Ahir";
+
+/* search token: completion string */
+"yesterday" = "ahir";
+
+/* when pressing on the empty trash button from trash bar, description */
+"You can't undo this action." = "Aquesta acció no es pot desfer.";
+
+/* account needed to open a compose window. description in the dialog box.
+   Text of the error dialog, when applescript is used and no account is available. */
+"You have to set up at least one account to be able to send emails." = "Has de configurar al menys un compte per poder enviar correus electrònics.";
+
+/* installation corrupted: description in the dialog box. */
+"You should uninstall the application and download it again." = "Has de desinstal·lar l'aplicació i tornar a descarregar-la.";
+
+/* When upload limit is reached on CloudApp. */
+"You've reached the daily upload limit allowed by the free plan of CloudApp." = "Has arribat al límit diari de càrrega permés pel pla gratuït de CloudApp.";
+
+/* error description. */
+"You've reached your storage limit on Dropbox. Please clean up your dropbox files and retry." = "Has arribat al límit d'espai a Dropbox. Fés neteja dels teus arxius a Dropbox i torna-ho a provar.";
+
+/* error description */
+"Your account moved to iCloud. Connect to http://me.com/move and retry." = "El teu compte s'ha traslladat a iCloud. Connecta't a http://me.com/move i torna-ho a provar.";
+
+/* main menu */
+"Zoom" = "Zoom";
+

@@ -1,0 +1,233 @@
+/* field name followed by colon, for example 'To:'. %@ is the name of the field. */
+"%@:" = "%@:";
+
+/* placeholder for the conversation view when several conversations have been selected. %u is the number of selected conversations. */
+"%u conversations selected" = "%u converses seleccionades";
+
+/* x days ago, used in message cell */
+"%u days" = "%u dies";
+
+/* when printing: below the subject, singular form, %u is the number of messages */
+"%u message" = "%u missatge";
+
+/* when printing: below the subject, plural form, %u is the number of messages */
+"%u messages" = "%u missatges";
+
+/* placeholder when the conversation has no subject, title of the conversation window
+   text at top of the conversation view
+   when the message has no subject, placeholder for subject */
+"(no subject)" = "(sense assumpte)";
+
+/* 1 week ago, used in message cell */
+"1 week" = "1 setmana";
+
+/* HTML notification text in conversation view. XXX-DON-T-LOCALIZE-SENDER is the name of the senders of the new messages. */
+"<span id=\"notificationButton\">New Message</span> from <span id=\"notificationBarSender\">XXX-DON-T-LOCALIZE-SENDER</span>" = "<span id=\"notificationButton\">Missatge nou</span> de <span id=\"notificationBarSender\">XXX-DON-T-LOCALIZE-SENDER</span>";
+
+/* menu item in address menu */
+"Add as friend on Facebook" = "Afegeix com amic a Facebook";
+
+/* For Gmail accounts, 'Add Label' in conversation view, top-right. */
+"Add Label" = "Afegeix etiqueta";
+
+/* menu item in address menu */
+"Add to Address Book" = "Afegeix a l'Agenda";
+
+/* When an attachment could not be downloaded. %@ is the subject. description of the dialog box. */
+"Attachments of the message \"%@\" could not be downloaded. Please retry later." = "No s'han pogut descarregar els arxius adjunts del missatge “%@”. Torna-ho a provar més tard.";
+
+/* When an attachment with no name could not be downloaded. description of the dialog box. */
+"Attachments of the message with no subject could not be downloaded. Please retry later." = "No s'han pogut descarregar els arxius adjunts del missatge sense assumpte. Torna-ho a provar més tard.";
+
+/* In the reply message, header of the attachments. */
+"Attachments:" = "Adjunts:";
+
+/* field name for forwarded messages in the composer
+   field name for message as attachment in conversation view
+   field name in message details */
+"Bcc" = "CCO";
+
+/* Cancel */
+"Cancel" = "Cancel·la";
+
+/* field name for forwarded messages in the composer
+   field name for message as attachment in conversation view
+   field name in message details */
+"Cc" = "CC";
+
+/* menu item in address menu */
+"Copy" = "Copia";
+
+/* field name for forwarded messages in the composer
+   field name for message as attachment in conversation view
+   field name in message details */
+"Date" = "Data";
+
+/* menu item in message menu */
+"Delete" = "Esborra";
+
+/* menu item in conversation view, when a draft is opened */
+"Discard" = "Descarta";
+
+/* conversation view: close search button */
+"Done" = "D'acord";
+
+/* When a message source could not be downloaded. title of the dialog box.
+   When an attachment could not be downloaded. title of the dialog box. */
+"Download failed" = "Error de descàrrega";
+
+/* conversation view: draft indication */
+"Draft" = "Esborrany";
+
+/* Forward button at bottom of the message
+   menu item in message menu */
+"Forward" = "Reenvia";
+
+/* header for forwarded messages in the composer */
+"Forwarded message:" = "Missatge reenviat:";
+
+/* field name for forwarded messages in the composer
+   field name for message as attachment in conversation view
+   From button for quickreply */
+"From" = "De";
+
+/* In conversation view, when quoted message is hidden, user will click on it to hide the quoted text. */
+"Hide quoted message" = "Amaga missatge citat";
+
+/* when remote images have not been loaded */
+"Images below are not displayed. <span id=\"remoteImagesOnceButton\">Display</span>." = "Les imatges següents no es mostren. <span id=\"remoteImagesOnceButton\">Mostra</span>.";
+
+/* when remote images have not been loaded */
+"Images below are not displayed. Display <span id=\"remoteImagesOnceButton\">once</span> or <span id=\"remoteImagesAlwaysButton\">always</span>." = "Les imatges següents no es mostren. Mostra <span id=\"remoteImagesOnceButton\">una vegada</span> o <span id=\"remoteImagesAlwaysButton\">sempre</span>.";
+
+/* Important menu item for priority inbox. */
+"Important" = "Important";
+
+/* display string for invalid email address */
+"invalid address" = "adreça no vàlida";
+
+/* Shown in the conversation view, placeholder for the message contents when loading is in progress. */
+"Loading\\U2026" = "Carregant…";
+
+/* Warning message when the quick reply is empty. description in dialog box. */
+"Make sure your reply is not empty before sending your email." = "Assegura't de que la resposta no està buida abans d'enviar el missatge.";
+
+/* menu item in message menu */
+"Mark as Read" = "Marca com llegit";
+
+/* menu item in message menu */
+"Mark as Spam" = "Marca com spam";
+
+/* menu item in message menu */
+"Mark as Unread" = "Marca com no llegit";
+
+/* displayed when this is my email address in case this is the recipient */
+"me-LocRecipient" = "mi";
+
+/* displayed when this is my email address in case this is the sender */
+"me-LocSender" = "jo";
+
+/* Warning message when the quick reply is empty. title of the dialog box. */
+"Message is empty" = "El missatge està buit";
+
+/* For non-Gmail accounts, 'Move To' in conversation view, top-right */
+"Move To" = "Moure a";
+
+/* menu item in address menu */
+"New Message" = "Missatge nou";
+
+/* placeholder for the conversation view when no conversation has been selected */
+"No conversation selected" = "No s'ha seleccionat cap conversa";
+
+/* menu item in message menu */
+"Not Spam" = "No és spam";
+
+/* Header of the reply message. */
+"On %@ at %@, %@ wrote:" = "El %1$@ a les %2$@, %3$@ va escriure:";
+
+/* menu item in address menu */
+"Open in Address Book" = "Obre a l'Agenda";
+
+/* menu item in message menu */
+"Print" = "Imprimeix";
+
+/* menu item in message menu
+   Reply button at bottom of the message */
+"Reply" = "Respon";
+
+/* menu item in message menu
+   Reply All button at bottom of the message */
+"Reply All" = "Respon a tothom";
+
+/* field name for forwarded messages in the composer
+   field name for message as attachment in conversation view
+   field name in message details */
+"Reply To" = "Respon a";
+
+/* menu item in attachment menu */
+"Reveal in Finder" = "Mostra al Finder";
+
+/* menu item in message menu
+   Save all attachments button at bottom of the message */
+"Save All Attachments" = "Desa tots els arxius adjunts";
+
+/* menu item in attachment menu
+   menu item in message menu
+   Save attachment button at bottom of the message */
+"Save Attachment" = "Desa arxiu adjunt";
+
+/* menu item in attachment menu
+   menu item in message menu */
+"Save Attachment As\\U2026" = "Desa arxiu adjunt com…";
+
+/* Send button for quickreply */
+"Send" = "Envia";
+
+/* 'Sending' label in quick reply when the sending is in progress */
+"Sending\\U2026" = "Enviant…";
+
+/* 'Sent' label in quick reply when the message has been sent */
+"Sent" = "Enviat";
+
+/* In conversation view, when quoted message is hidden, user will click on it to show the quoted text. */
+"Show quoted message" = "Mostra missatge citat";
+
+/* title of source message window */
+"Source" = "Origen";
+
+/* field name for forwarded messages in the composer
+   field name for message as attachment in conversation view
+   field name in message details */
+"Subject" = "Assumpte";
+
+/* When an attachment could not be downloaded. %@ is the filename. description of the dialog box. */
+"The attachment \"%@\" could not be downloaded. Please retry later." = "No s'ha pogut descarregar l'arxiu adjunt \"%@\". Torna-ho a provar més tard.";
+
+/* When an attachment with no name could not be downloaded. description of the dialog box. */
+"The attachment could not be downloaded. Please retry later." = "No s'ha pogut descarregar l'arxiu adjunt. Torna-ho a provar més tard.";
+
+/* Shown in the conversation view, placeholder for the message contents when it has not been loaded or could not be loaded. */
+"The content of the message has not been downloaded yet." = "Encara no s'ha descarregat el contingut del missatge.";
+
+/* field name for forwarded messages in the composer
+   field name for message as attachment in conversation view
+   field name for recipient of quick reply
+   field name in message details */
+"To" = "Per";
+
+/* recipient at the top of the message cell in the conversation view. */
+"to %@" = "per %@";
+
+/* conversation view: undisclosed recipient */
+"undisclosed recipient" = "destinatari no revelat";
+
+/* default filename when the attachment has been opened from the conversation view
+   default filename when the attachment has no filename when drag&dropping the attachment from the conversation view */
+"Untitled" = "Sense títol";
+
+/* menu item in message menu */
+"View Source" = "Veure codi font";
+
+/* short date or time string, used in message cell */
+"Yesterday" = "Ahir";
+

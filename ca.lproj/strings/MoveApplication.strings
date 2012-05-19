@@ -1,0 +1,24 @@
+/* error text in dialog */
+"Could not move to Applications folder" = "No s'ha pogut moure a la carpeta Aplicacions";
+
+/* dialog: do not move button */
+"Do Not Move" = "No moure";
+
+/* description in the dialog box */
+"I can move myself to the Applications folder if you'd like." = "Si vols, em puc moure automàticament a la carpeta Aplicacions.";
+
+/* dialog: Move button */
+"Move to Applications Folder" = "Moure a la carpeta Aplicacions";
+
+/* title of the dialog box */
+"Move to Applications folder in your Home folder?" = "Vols moure l'aplicació a la carpeta Aplicacions de la carpeta d'inici?";
+
+/* title of dialog box */
+"Move to Applications folder?" = "Vols moure l'aplicació a la carpeta Aplicacions?";
+
+/* description in the dialog box */
+"Note that this will require an administrator password." = "Necessitaràs una contrasenya d'administrador.";
+
+/* description in the dialog box */
+"This will keep your Downloads folder uncluttered." = "Així es mantindrà la carpeta de Descàrregues buida.";
+

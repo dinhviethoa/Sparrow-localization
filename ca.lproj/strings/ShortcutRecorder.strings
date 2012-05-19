@@ -1,0 +1,42 @@
+/* Hot Keys: Key Combo text for 'empty' combo */
+"(None)" = "(Cap)";
+
+/* displayed in the cell */
+"Click to record shortcut" = "Registra funció ràpida";
+
+/* key modifier */
+"Command + " = "Command + ";
+
+/* key modifier */
+"Control + " = "Control + ";
+
+/* key modifier */
+"Option + " = "Opció + ";
+
+/* numeric keypad key. %@ is the name of the key */
+"Pad %@" = "Teclat núm. %@";
+
+/* key modifier */
+"Shift + " = "Majús + ";
+
+/* No comment provided by engineer. */
+"Space" = "Espai";
+
+/* error description */
+"The key combination \"%@\" can't be used because %@." = "No es pot utilitzar la combinació de tecles \"%1$@\" perquè %2$@.";
+
+/* error description */
+"The key combination \"%@\" can't be used because it's already used by a system-wide keyboard shortcut. (If you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.)" = "No es pot utilitzar la combinació de tecles \"%@\" perquè ja l'utilitza una funció ràpida de teclat del sistema. (Si realment vols utilizar aquesta combinació de tecles, la majoria de funcions ràpides es poden modificar al panell Teclat de les Preferències del Sistema.)";
+
+/* error description */
+"The key combination \"%@\" can't be used because it's already used by the menu item \"%@\"." = "No es pot utilitzar la combinació de tecles \"%1$@\" perquè ja l'utilitza l'element de menú \"%2$@\".";
+
+/* error description */
+"The key combination %@ can't be used!" = "No es pot utilitzar la combinació de tecles %@.";
+
+/* displayed in the cell */
+"Type shortcut" = "Introdueix funció ràpida";
+
+/* displayed in the cell */
+"Use old shortcut" = "Utilitza funció antiga";
+

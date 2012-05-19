@@ -1,0 +1,57 @@
+/* activity window: progress value, %g is the number of items remaining */
+"%g remaining" = "%g restants";
+
+/* column header in activity window */
+"Account" = "Compte";
+
+/* Activity: title of the window */
+"Activity" = "Activitat";
+
+/* connection checker: check button */
+"Check" = "Verifica";
+
+/* connection checker: progress string */
+"Check in progress\\U2026" = "Verificació en curs…";
+
+/* connection checker: title of the window */
+"Connection Checker" = "Verificador de connexió";
+
+/* activity window: done in progress column */
+"done" = "D'acord";
+
+/* connection checker: when connections all succeed */
+"Everything is ok." = "Tot correcte.";
+
+/* connection checker: Failed */
+"Failed" = "Error";
+
+/* column header in activity window */
+"Folder" = "Carpeta";
+
+/* connection checker: label for IMAP server */
+"IMAP server:" = "Servidor IMAP:";
+
+/* activity window: when no progress value is available */
+"in progress" = "en curs";
+
+/* connection checker: OK */
+"OK" = "Correcte";
+
+/* column header in activity window */
+"Operation" = "Operació";
+
+/* connection checker: when a connection failed */
+"Please check the name of the IMAP server and the name of the SMTP server are correct but it's likely that you are behind a firewall that won't allow IMAP or SMTP connections." = "Verifica que el nom del servidor IMAP i el nom del servidor SMTP siguin correctes, però el més probable és que estigui darrera d'un firewall que no permeti connexions IMAP o SMTP.";
+
+/* column header in activity window */
+"Progress" = "Estat";
+
+/* connection checker: column header */
+"Server" = "Servidor";
+
+/* connection checker: label for SMTP server */
+"SMTP server:" = "Servidor SMTP:";
+
+/* connection checker: column header */
+"Status" = "Estat";
+
