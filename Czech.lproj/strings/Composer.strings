@@ -61,14 +61,14 @@
 "Do you want to convert them to standard e-mail attachments?" = "Do you want to convert them to standard e-mail attachments?";
 
 /* needs to save. title of the dialog box */
-"Do you want to save your email?" = "Do you want to save your email?";
+"Do you want to save your email?" = "Chcete uložit email?";
 
 /* 'link to' dialog box: done button
    composer: close search button */
 "Done" = "Done";
 
 /* error description. */
-"Drafts folder was not found and could not be created. This folder is required to get Sparrow to work properly." = "Drafts folder was not found and could not be created. This folder is required to get Sparrow to work properly.";
+"Drafts folder was not found and could not be created. This folder is required to get Sparrow to work properly." = "Nebyla nalezena složka Rozespané a selhal pokus o její vytvoření. Sparrow tuto složku vyžaduje pro správné fungování.";
 
 /* field name */
 "From" = "Od";
@@ -80,7 +80,7 @@
 "Fw: %@" = "Fw: %@";
 
 /* composer: tooltip */
-"Hide Cc/Bcc" = "Hide Cc/Bcc";
+"Hide Cc/Bcc" = "Skrýt Kopie/Skryté";
 
 /* composer: menu item: increase quote */
 "Increase Quote Level" = "Increase Quote Level";
@@ -116,7 +116,7 @@
 "New Message" = "Nová zpráva";
 
 /* composer: error title, when recipient is empty. */
-"No recipient was specified for this message" = "No recipient was specified for this message";
+"No recipient was specified for this message" = "Nebyl vybrán žádný příjemce pro tuto zprávu";
 
 /* composer: list menu item: none */
 "None" = "None";
@@ -126,13 +126,13 @@
 "Numbered List" = "Číslovaný seznam";
 
 /* error description. */
-"Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly." = "Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly.";
+"Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly." = "Aktivujte prosím všechny složky v nastavení Vašeho Gmail účtu pro správné fungování Sparrow (http://www.sparrowmailapp.com/faq-gmaillabels).";
 
 /* composer: error description, when address is not valid. */
 "Please check you typed it properly." = "Please check you typed it properly.";
 
 /* composer: error description, when recipient is empty. */
-"Please enter at least one recipient." = "Please enter at least one recipient.";
+"Please enter at least one recipient." = "Vložte prosím alespoň jednoho příjemce.";
 
 /* subject of a reply to an empty message */
 "Re:" = "Re:";
@@ -169,19 +169,19 @@
 "Sent with Sparrow" = "Odesláno pomocí Sparrow";
 
 /* composer: tooltip */
-"Show Cc/Bcc" = "Show Cc/Bcc";
+"Show Cc/Bcc" = "Zobrazit Kopie/Skryté";
 
 /* Action description for undo menu item when signature has been changed */
 "Signature" = "Podpis";
 
 /* signature prefs */
-"Signature for:" = "Signature for:";
+"Signature for:" = "Podpis pro:";
 
 /* dialog title: attachement could not be uploaded */
-"Some attachments failed to be uploaded to the Cloud" = "Some attachments failed to be uploaded to the Cloud";
+"Some attachments failed to be uploaded to the Cloud" = "Selhalo nahrávání některých příloh do Cloudu";
 
 /* error title. */
-"Sparrow won't be able to send emails." = "Sparrow won't be able to send emails.";
+"Sparrow won't be able to send emails." = "Sparrow nebude schopen odesílat emaily.";
 
 /* field name */
 "Subject" = "Předmět";
@@ -193,7 +193,7 @@
 "Switch to Reply All" = "Switch to Reply All";
 
 /* tooltip for formatting bar */
-"Text Color" = "Text Color";
+"Text Color" = "Barva textu";
 
 /* Error message when an attachment cannot be added because it's too big: description in dialog box. */
 "The attachment could not be added because it's too large. The total size of the message cannot exceed 25 megabytes." = "The attachment could not be added because it's too large. The total size of the message cannot exceed 25 megabytes.";
@@ -232,7 +232,7 @@
 "Underline" = "Podtržené";
 
 /* composer: error title, attachments upload is in progress */
-"Upload of attachments to the cloud is in progress" = "Upload of attachments to the cloud is in progress";
+"Upload of attachments to the cloud is in progress" = "Probíhá nahrávání příloh do cloudu";
 
 /* signature prefs */
 "Use custom signature for this alias" = "Use custom signature for this alias";
@@ -244,11 +244,11 @@
 "Your draft will be discarded if you don't save it." = "Your draft will be discarded if you don't save it.";
 
 /* Error message when the message could not be saved to remote draft: title of the dialog. */
-"Your message has been saved locally." = "Your message has been saved locally.";
+"Your message has been saved locally." = "Vaše zpráva byla uložena lokálně.";
 
 /* composer: error title, shortmail counter exceeded. %i is the maximum number of characters */
-"Your message is over %i characters" = "Your message is over %i characters";
+"Your message is over %i characters" = "Vaše zpráva obsahuje %i znaků nad povolený limit.";
 
 /* composer: error description/question, shortmail counter exceeded */
-"Your message is too long. Try to be concise." = "Your message is too long. Try to be concise.";
+"Your message is too long. Try to be concise." = "Vaše zpráva je příliš dlouhá. Zkuste být více struční.";
 
