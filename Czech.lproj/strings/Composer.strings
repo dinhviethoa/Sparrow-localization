@@ -1,5 +1,5 @@
 /* When an error while uploading attachment occurred. %@ is the error message description. */
-"%@ The attachment has been converted to standard email attachment." = "%@ The attachment has been converted to standard email attachment.";
+"%@ The attachment has been converted to standard email attachment." = "%@ Příloha byla zkonvertována na standardní přílohu zprávy.";
 
 /* title of composer when subject has not been entered */
 "(No subject)" = "(žádný předmět)";
@@ -49,23 +49,23 @@
 "Convert" = "Convert";
 
 /* Action description for undo menu item */
-"Decrease Indent Level" = "Decrease Indent Level";
+"Decrease Indent Level" = "Snížit odsazení";
 
 /* composer: menu item: decrease quote */
-"Decrease Quote Level" = "Decrease Quote Level";
+"Decrease Quote Level" = "Snížit odsazení citace";
 
 /* needs to save: Discard button */
 "Discard" = "Zrušit";
 
 /* composer: error description/question, attachments upload is in progress */
-"Do you want to convert them to standard e-mail attachments?" = "Do you want to convert them to standard e-mail attachments?";
+"Do you want to convert them to standard e-mail attachments?" = "Přejete si zkonvertovat na stadardní přílohy zprávy?";
 
 /* needs to save. title of the dialog box */
 "Do you want to save your email?" = "Chcete uložit email?";
 
 /* 'link to' dialog box: done button
    composer: close search button */
-"Done" = "Done";
+"Done" = "Hotovo";
 
 /* error description. */
 "Drafts folder was not found and could not be created. This folder is required to get Sparrow to work properly." = "Nebyla nalezena složka Rozespané a selhal pokus o její vytvoření. Sparrow tuto složku vyžaduje pro správné fungování.";
@@ -86,13 +86,13 @@
 "Increase Quote Level" = "Increase Quote Level";
 
 /* tooltip for formatting bar */
-"Indent-LocFormattingBar" = "Indent";
+"Indent-LocFormattingBar" = "Odsazení";
 
 /* Action description for undo menu item */
-"Indent-LocUndo" = "Indent";
+"Indent-LocUndo" = "Odsazení";
 
 /* Error details when the draft could not be loaded in the composer because an attachment needs to be fetched from the remote server. */
-"It contains an attachment that needs to be retrieved from the server. Please connect to the Internet to be able to edit the draft." = "It contains an attachment that needs to be retrieved from the server. Please connect to the Internet to be able to edit the draft.";
+"It contains an attachment that needs to be retrieved from the server. Please connect to the Internet to be able to edit the draft." = "Obsahuje přílohu, kterou je nutné stáhnout ze serveru. Připojete se prosím k Internetu pro úpravu rozespané zprávy.";
 
 /* tooltip for formatting bar */
 "Italic" = "Kurzíva";
@@ -129,7 +129,7 @@
 "Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly." = "Aktivujte prosím všechny složky v nastavení Vašeho Gmail účtu pro správné fungování Sparrow (http://www.sparrowmailapp.com/faq-gmaillabels).";
 
 /* composer: error description, when address is not valid. */
-"Please check you typed it properly." = "Please check you typed it properly.";
+"Please check you typed it properly." = "Prosím zkontrolujte, že to to vyplněno správně.";
 
 /* composer: error description, when recipient is empty. */
 "Please enter at least one recipient." = "Vložte prosím alespoň jednoho příjemce.";
@@ -160,7 +160,7 @@
 "Send and Archive" = "Odeslat a archivovat";
 
 /* composer: error description/question, message has no subject, send anyway button */
-"Send anyway" = "Send anyway";
+"Send anyway" = "Přesto odeslat";
 
 /* Default signature for account. HTML format. %@ is the signature identifier */
 "Sent with <a href=\"http://www.sparrowmailapp.com/?%@\">Sparrow</a>" = "Odesláno pomocí <a href=\"http://www.sparrowmailapp.com/?%@\">Sparrow</a>";
@@ -187,28 +187,28 @@
 "Subject" = "Předmět";
 
 /* composer: tooltip, switch reply/reply all */
-"Switch to Reply" = "Switch to Reply";
+"Switch to Reply" = "Přepnout na odpověď";
 
 /* composer: tooltip, switch reply/reply all */
-"Switch to Reply All" = "Switch to Reply All";
+"Switch to Reply All" = "Přepnout na odpověď všem";
 
 /* tooltip for formatting bar */
 "Text Color" = "Barva textu";
 
 /* Error message when an attachment cannot be added because it's too big: description in dialog box. */
-"The attachment could not be added because it's too large. The total size of the message cannot exceed 25 megabytes." = "The attachment could not be added because it's too large. The total size of the message cannot exceed 25 megabytes.";
+"The attachment could not be added because it's too large. The total size of the message cannot exceed 25 megabytes." = "Příloha nemohla být přidána, protože je příliš velká. Maximální povolená velikost je 25 MB.";
 
 /* Error message when the attachments (plural) cannot be added because it's too big: description in dialog box. */
-"The attachments could not be added because they are too large. The total size of the message cannot exceed 25 megabytes." = "The attachments could not be added because they are too large. The total size of the message cannot exceed 25 megabytes.";
+"The attachments could not be added because they are too large. The total size of the message cannot exceed 25 megabytes." = "Přílohy nemohli být přidány, protože jsou příliš velké. Maximální povolená velikost všech nesmí přesáhnout 25 MB.";
 
 /* Error message when the draft could not be loaded in the composer because an attachment needs to be fetched from the remote server. */
-"The draft could not be loaded." = "The draft could not be loaded.";
+"The draft could not be loaded." = "Nepodařilo se načíst rozepsanou zprávu.";
 
 /* cloud attachment: in composed message, error placeholder when an upload error occurred */
-"The file could not be uploaded" = "The file could not be uploaded";
+"The file could not be uploaded" = "Soubor se nepodařilo nahrát";
 
 /* composer: error title, when address is not valid. %@ is the invalid address. */
-"The following address is not valid: \"%@\"" = "The following address is not valid: \"%@\"";
+"The following address is not valid: \"%@\"" = "Následující adresy nejsou správné: \"%@\"";
 
 /* when setting a link, error message when the URL is empty */
 "The URL is empty" = "Odkaz je prázdný";
@@ -217,7 +217,7 @@
 "The URL is not valid" = "Odkaz není ve správném formátu";
 
 /* signature prefs */
-"This is the main email of the account" = "This is the main email of the account";
+"This is the main email of the account" = "Toto je email pro hlavní účet";
 
 /* composer: error title, message has no subject */
 "This message has no subject" = "Zpráva neobsahuje předmět";
@@ -241,7 +241,7 @@
 "You cannot send emails with attachments from Shortmail." = "You cannot send emails with attachments from Shortmail.";
 
 /* needs to save. description in the dialog box. */
-"Your draft will be discarded if you don't save it." = "Your draft will be discarded if you don't save it.";
+"Your draft will be discarded if you don't save it." = "Pokud si Vaší rozepsanou zprávu neuložíte, bude odstraněna.";
 
 /* Error message when the message could not be saved to remote draft: title of the dialog. */
 "Your message has been saved locally." = "Vaše zpráva byla uložena lokálně.";
