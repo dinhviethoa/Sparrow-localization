@@ -2,7 +2,7 @@
 "%@:" = "%@:";
 
 /* placeholder for the conversation view when several conversations have been selected. %u is the number of selected conversations. */
-"%u conversations selected" = "%u conversations selected";
+"%u conversations selected" = "%u konverzací označeno";
 
 /* x days ago, used in message cell */
 "%u days" = "%u dnů";
@@ -22,10 +22,10 @@
 "1 week" = "1 týden";
 
 /* HTML notification text in conversation view. XXX-DON-T-LOCALIZE-SENDER is the name of the senders of the new messages. */
-"<span id=\"notificationButton\">New Message</span> from <span id=\"notificationBarSender\">XXX-DON-T-LOCALIZE-SENDER</span>" = "<span id=\"notificationButton\">New Message</span> from <span id=\"notificationBarSender\">XXX-DON-T-LOCALIZE-SENDER</span>";
+"<span id=\"notificationButton\">New Message</span> from <span id=\"notificationBarSender\">XXX-DON-T-LOCALIZE-SENDER</span>" = "<span id=\"notificationButton\">Nová zpráva</span> od <span id=\"notificationBarSender\">XXX-DON-T-LOCALIZE-SENDER</span>";
 
 /* menu item in address menu */
-"Add as friend on Facebook" = "Add as friend on Facebook";
+"Add as friend on Facebook" = "Přidat jako přítele na Facebook";
 
 /* For Gmail accounts, 'Add Label' in conversation view, top-right. */
 "Add Label" = "Přidat štítek";
@@ -34,10 +34,10 @@
 "Add to Address Book" = "Přidat do adresáře";
 
 /* When an attachment could not be downloaded. %@ is the subject. description of the dialog box. */
-"Attachments of the message \"%@\" could not be downloaded. Please retry later." = "Attachments of the message \"%@\" could not be downloaded. Please retry later.";
+"Attachments of the message \"%@\" could not be downloaded. Please retry later." = "Přílohy zprávy \"%@\" se nepodařilo stáhnout. Zkuste to prosím později.";
 
 /* When an attachment with no name could not be downloaded. description of the dialog box. */
-"Attachments of the message with no subject could not be downloaded. Please retry later." = "Attachments of the message with no subject could not be downloaded. Please retry later.";
+"Attachments of the message with no subject could not be downloaded. Please retry later." = "Přílohy zprávy bez předměnu se nepodařilo stáhnout. Zkuste to prosím později.";
 
 /* In the reply message, header of the attachments. */
 "Attachments:" = "Přílohy:";
@@ -48,7 +48,7 @@
 "Bcc" = "Skrytá";
 
 /* Cancel */
-"Cancel" = "Cancel";
+"Cancel" = "Storno";
 
 /* field name for forwarded messages in the composer
    field name for message as attachment in conversation view
@@ -67,24 +67,24 @@
 "Delete" = "Smazat";
 
 /* menu item in conversation view, when a draft is opened */
-"Discard" = "Discard";
+"Discard" = "Zrušit";
 
 /* conversation view: close search button */
-"Done" = "Done";
+"Done" = "Hotovo";
 
 /* When a message source could not be downloaded. title of the dialog box.
    When an attachment could not be downloaded. title of the dialog box. */
-"Download failed" = "Download failed";
+"Download failed" = "Stažení selhalo";
 
 /* conversation view: draft indication */
 "Draft" = "Rozepsané";
 
 /* Forward button at bottom of the message
    menu item in message menu */
-"Forward" = "Forward";
+"Forward" = "Přeposlat";
 
 /* header for forwarded messages in the composer */
-"Forwarded message:" = "Forwarded message:";
+"Forwarded message:" = "Přeposlaná zprává:";
 
 /* field name for forwarded messages in the composer
    field name for message as attachment in conversation view
@@ -92,25 +92,25 @@
 "From" = "Od";
 
 /* In conversation view, when quoted message is hidden, user will click on it to hide the quoted text. */
-"Hide quoted message" = "Hide quoted message";
+"Hide quoted message" = "Skrýt citovanou zprávu";
 
 /* when remote images have not been loaded */
-"Images below are not displayed. <span id=\"remoteImagesOnceButton\">Display</span>." = "Images below are not displayed. <span id=\"remoteImagesOnceButton\">Display</span>.";
+"Images below are not displayed. <span id=\"remoteImagesOnceButton\">Display</span>." = "Níže uvedené obrázky nejsou zobrazeny. <span id=\"remoteImagesOnceButton\">Display</span>.";
 
 /* when remote images have not been loaded */
-"Images below are not displayed. Display <span id=\"remoteImagesOnceButton\">once</span> or <span id=\"remoteImagesAlwaysButton\">always</span>." = "Images below are not displayed. Display <span id=\"remoteImagesOnceButton\">once</span> or <span id=\"remoteImagesAlwaysButton\">always</span>.";
+"Images below are not displayed. Display <span id=\"remoteImagesOnceButton\">once</span> or <span id=\"remoteImagesAlwaysButton\">always</span>." = "Níže uvedené obrázky nejsou zobrazeny. Zobrazit v tomto případě <span id=\"remoteImagesOnceButton\">once</span> nebo <span id=\"remoteImagesAlwaysButton\">zobrazovat vždy</span>.";
 
 /* Important menu item for priority inbox. */
-"Important" = "Important";
+"Important" = "Důležité";
 
 /* display string for invalid email address */
 "invalid address" = "špatná adresa";
 
 /* Shown in the conversation view, placeholder for the message contents when loading is in progress. */
-"Loading\\U2026" = "Loading…";
+"Loading\\U2026" = "Nahrávám …";
 
 /* Warning message when the quick reply is empty. description in dialog box. */
-"Make sure your reply is not empty before sending your email." = "Make sure your reply is not empty before sending your email.";
+"Make sure your reply is not empty before sending your email." = "Ujistěte se před odesláním, že Vaše odpověď není prázdná.";
 
 /* menu item in message menu */
 "Mark as Read" = "Označit jako přečtené";
@@ -122,28 +122,28 @@
 "Mark as Unread" = "Označit jako nepřečtené";
 
 /* displayed when this is my email address in case this is the recipient */
-"me-LocRecipient" = "me";
+"me-LocRecipient" = "já";
 
 /* displayed when this is my email address in case this is the sender */
-"me-LocSender" = "me";
+"me-LocSender" = "já";
 
 /* Warning message when the quick reply is empty. title of the dialog box. */
 "Message is empty" = "Zpráva je prázdná";
 
 /* For non-Gmail accounts, 'Move To' in conversation view, top-right */
-"Move To" = "Move To";
+"Move To" = "Přesunout do";
 
 /* menu item in address menu */
 "New Message" = "Nová zpráva";
 
 /* placeholder for the conversation view when no conversation has been selected */
-"No conversation selected" = "No conversation selected";
+"No conversation selected" = "Není vybraná konverzace";
 
 /* menu item in message menu */
-"Not Spam" = "Not Spam";
+"Not Spam" = "Není nevyžádaná";
 
 /* Header of the reply message. */
-"On %@ at %@, %@ wrote:" = "On %1$@ at %2$@, %3$@ wrote:";
+"On %@ at %@, %@ wrote:" = "%1$@ dne %2$@, %3$@ napsal:";
 
 /* menu item in address menu */
 "Open in Address Book" = "Zobrazit v adresáři";
@@ -162,10 +162,10 @@
 /* field name for forwarded messages in the composer
    field name for message as attachment in conversation view
    field name in message details */
-"Reply To" = "Reply To";
+"Reply To" = "Odpovědět na";
 
 /* menu item in attachment menu */
-"Reveal in Finder" = "Reveal in Finder";
+"Reveal in Finder" = "Zobrazit ve Finder";
 
 /* menu item in message menu
    Save all attachments button at bottom of the message */
@@ -190,7 +190,7 @@
 "Sent" = "Odeslané";
 
 /* In conversation view, when quoted message is hidden, user will click on it to show the quoted text. */
-"Show quoted message" = "Show quoted message";
+"Show quoted message" = "Zobrazit citovanou zprávu";
 
 /* title of source message window */
 "Source" = "Zdroj";
@@ -201,13 +201,13 @@
 "Subject" = "Předmět";
 
 /* When an attachment could not be downloaded. %@ is the filename. description of the dialog box. */
-"The attachment \"%@\" could not be downloaded. Please retry later." = "The attachment \"%@\" could not be downloaded. Please retry later.";
+"The attachment \"%@\" could not be downloaded. Please retry later." = "Přílohu \"%@\" se nepodařilo stáhnout. Zkuste to prosím později.";
 
 /* When an attachment with no name could not be downloaded. description of the dialog box. */
 "The attachment could not be downloaded. Please retry later." = "Nepodařilo se stáhnout přílohu. Zkuste to prosím později.";
 
 /* Shown in the conversation view, placeholder for the message contents when it has not been loaded or could not be loaded. */
-"The content of the message has not been downloaded yet." = "The content of the message has not been downloaded yet.";
+"The content of the message has not been downloaded yet." = "Obsah zprávy nebyl ještě kompletně stažen.";
 
 /* field name for forwarded messages in the composer
    field name for message as attachment in conversation view
@@ -223,7 +223,7 @@
 
 /* default filename when the attachment has been opened from the conversation view
    default filename when the attachment has no filename when drag&dropping the attachment from the conversation view */
-"Untitled" = "Untitled";
+"Untitled" = "Bez názvu";
 
 /* menu item in message menu */
 "View Source" = "Zobrazit zdroj";
