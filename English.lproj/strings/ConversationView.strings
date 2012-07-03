@@ -33,6 +33,12 @@
 /* menu item in address menu */
 "Add to Address Book" = "Add to Address Book";
 
+/* menu item in message menu */
+"Always Expand Messages" = "Always Expand Messages";
+
+/* menu item in message menu */
+"Always Show Info" = "Always Show Info";
+
 /* When an attachment could not be downloaded. %@ is the subject. description of the dialog box. */
 "Attachments of the message \"%@\" could not be downloaded. Please retry later." = "Attachments of the message \"%@\" could not be downloaded. Please retry later.";
 
@@ -182,6 +188,9 @@
 
 /* Send button for quickreply */
 "Send" = "Send";
+
+/* Send and archive button for quickreply */
+"Send & Archive" = "Send & Archive";
 
 /* 'Sending' label in quick reply when the sending is in progress */
 "Sending\\U2026" = "Sending…";
